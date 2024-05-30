@@ -5,8 +5,8 @@ author: kayabaNerve
 date: April 13, 2024
 amount: 2000
 milestones:
-  - name: Provide a soundness proof for the proof using Elliptic Curve Divisors (Cypherstack)
-    funds: 198
+  - name: Provide a soundness proof for the proof using Elliptic Curve Divisors (MAGIC/Veridise)
+    funds: 70
     done:
     status: unfinished
   - name: Formally verify the gadgets
@@ -44,8 +44,8 @@ milestones:
 payouts:
   - date: 22 May 2024
     amount: 198
-  - date:
-    amount:
+  - date: 30 May 2024
+    amount: 70
   - date:
     amount:
   - date:
