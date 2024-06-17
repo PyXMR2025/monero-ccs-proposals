@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: May
     funds: 16
-    done:
-    status: unfinished
+    done: 1 June 2024
+    status: finished
   - name: June
     funds: 16
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 18 May 2024
     amount: 16
-  - date:
-    amount:
+  - date: 17 June 2024
+    amount: 16
   - date:
     amount:
 ---
