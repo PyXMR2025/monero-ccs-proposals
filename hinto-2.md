@@ -7,8 +7,8 @@ amount: 264
 milestones:
   - name: RPC server design
     funds: 20% (52.8)
-    done:
-    status: unfinished
+    done: 5 June 2024
+    status: finished
   - name: JSON RPC interface
     funds: 40% (105.6)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 18 June 2024
+    amount: 52.8
   - date:
     amount:
   - date:
