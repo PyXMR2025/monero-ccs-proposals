@@ -7,27 +7,23 @@ amount: 190
 milestones:
   - name: The PeerSet + Routing methods excluding D++
     funds: 54 XMR
-    done:
-    status: unfinished
+    done: 15 June 2024
+    status: finished
   - name: D++ Routing method + Network Initialisation
     funds: 54 XMR
-    done:
-    status: unfinished
+    done: 15 June 2024
+    status: finished
   - name: The Block Downloader + Syncer
     funds: 54 XMR
-    done:
-    status: unfinished
+    done: 15 June 2024
+    status: finished
   - name: P2P Documentation
     funds: 28 XMR
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 20 June 2024
+    amount: 162
   - date:
     amount:
 ---
