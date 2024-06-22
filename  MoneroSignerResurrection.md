@@ -7,8 +7,8 @@ amount: 55.38
 milestones:
   - name: Monero Signer basics on emulator
     funds: 5.38 XMR
-    done:
-    status: unfinished
+    done: 19 June 2024
+    status: finished
   - name: Monero Signer working with companion Application
     funds: 5 XMR
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 20 June 2024
+    amount: 5.38
   - date:
     amount:
   - date:
