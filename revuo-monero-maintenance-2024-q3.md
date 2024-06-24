@@ -1,4 +1,3 @@
-
 ---
 layout: fr
 title: Revuo Monero maintenance (2024 Q3)
