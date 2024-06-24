@@ -7,8 +7,8 @@ amount: 80.07
 milestones:
   - name: 2 meetings + hours worked
     funds: 26.69 XMR
-    done:
-    status: unfinished
+    done: 2 June 2024
+    status: finished
   - name: 2 meetings + hours worked
     funds: 26.69 XMR
     done:
@@ -18,7 +18,7 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
+  - date: 24 June 2024
     amount: 26.69
   - date:
     amount: 26.69
