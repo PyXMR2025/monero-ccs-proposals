@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title:  Boog900 full time work on Cuprate (3 months)
 author: Boog900
 date: June 28, 2024
