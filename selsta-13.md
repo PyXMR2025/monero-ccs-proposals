@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: June
     funds: 33% (53 XMR)
-    done:
-    status: unfinished
+    done: 4 July 2024
+    status: finished
   - name: July
     funds: 33% (53 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 9 June 2024
     amount: 53
-  - date:
-    amount:
+  - date: 16 July 2024
+    amount: 53
   - date:
     amount:
 ---
