@@ -7,8 +7,8 @@ amount: 146
 milestones:
   - name: Month 1
     funds: 33% (48.0)
-    done:
-    status: unfinished
+    done: 16 July 2024
+    status: finished
   - name: Month 2
     funds: 33% (49.0)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 17 July 2024
+    amount: 49
   - date:
     amount:
   - date:
