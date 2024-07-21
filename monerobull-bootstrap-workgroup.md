@@ -1,22 +1,22 @@
 ---
 layout: fr
-title: monerobull for website workgroup
+title: "monerobull for website workgroup"
 author: monerobull
 date: 2024 July 05
 amount: 30
 milestones:
   - name: 2 meetings + hours worked
     funds: 10
-    status: unfinished
     done:
+    status: unfinished
   - name: 2 meetings + hours worked
     funds: 10
-    status: unfinished
     done:
+    status: unfinished
   - name: 2 meetings + hours worked
     funds: 10
-    status: unfinished
     done:
+    status: unfinished
 payouts:
   - date:
     amount: 10
