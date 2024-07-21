@@ -2,28 +2,28 @@
 layout: fr
 title: "monerobull for website workgroup"
 author: monerobull
-date: 2024 July 05
+date: 5 July 2024
 amount: 30
 milestones:
   - name: 2 meetings + hours worked
-    funds: 10
+    funds: 10 XMR
     done:
     status: unfinished
   - name: 2 meetings + hours worked
-    funds: 10
+    funds: 10 XMR
     done:
     status: unfinished
   - name: 2 meetings + hours worked
-    funds: 10
+    funds: 10 XMR
     done:
     status: unfinished
 payouts:
   - date:
-    amount: 10
+    amount:
   - date:
-    amount: 10
+    amount:
   - date:
-    amount: 10
+    amount:
 ---
 
 # Who, what, when, where?
