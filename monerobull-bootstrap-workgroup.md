@@ -8,15 +8,15 @@ milestones:
   - name: 2 meetings + hours worked
     funds: 10
     status: unfinished
-    done: 
+    done:
   - name: 2 meetings + hours worked
     funds: 10
     status: unfinished
-    done: 
+    done:
   - name: 2 meetings + hours worked
     funds: 10
     status: unfinished
-    done: 
+    done:
 payouts:
   - date:
     amount: 10
@@ -33,7 +33,7 @@ Hi, I'm monerobull. I run monero.town & monerosupplies.com. I also never did any
 I was recently mentioned in a CCS proposal by geonic, famous Monero movie director. There's a lot of opportunity for improvement in the non-dev areas of the project, and not always enough hands to get it done. It was agreed upon that, were this to happen, this would be done through my own CCS proposal rather than through geonics. This moves me from being accountable to nobody, to accountable to the community.
 
 A quick summary of what I'd be working on:
-- Setting up / managing a Monero Website Workgroup, keep it up to date (our roadmap still mentions triptych 💀)
+- Setting up / managing a Monero Website Workgroup, keep it up to date (our roadmap still mentions triptych)
 - Joining the moderator teams for Matrix and helping along with discord
 - Being a supportive figure in the Monero Community workgroup and helping that along as needed
 - Keeping a finger on the "pulse of the community" in the various chat rooms and platforms (Telegram, Discord, not IRC, Matrix, Reddit, etc.)
