@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: rehrar help the project
 author: rehrar
 date: June 29, 2024
