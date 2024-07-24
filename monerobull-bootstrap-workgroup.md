@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "monerobull for website workgroup"
 author: monerobull
 date: 5 July 2024
