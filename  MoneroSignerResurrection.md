@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Monero Signer working with companion Application
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 28 July 2024
+    status: finished
   - name: Cleanup and production ready
     funds: 35 XMR
     done:
@@ -24,8 +24,8 @@ milestones:
 payouts:
   - date: 20 June 2024
     amount: 5.38
-  - date:
-    amount:
+  - date: 29 July 2024
+    amount: 5
   - date:
     amount:
   - date:
