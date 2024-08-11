@@ -1,8 +1,8 @@
 ---
 layout: fr
 title: "From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem"
-author: binarybaron and einliterflasche
-date: 2024-07-09
+author: "binarybaron and einliterflasche"
+date: 2024 July 9
 amount: 672
 milestones:
   - name: 1st month
@@ -31,17 +31,17 @@ milestones:
     done: 
 payouts:
   - date:
-    amount: 112
+    amount:
   - date:
-    amount: 112
+    amount:
   - date:
-    amount: 112
+    amount:
   - date:
-    amount: 112
+    amount:
   - date:
-    amount: 112
+    amount:
   - date:
-    amount: 112
+    amount:
 ---
 
 ![https://i.ibb.co/3NvpYp2/upload-398781d371d354427bb455356731258c.png](https://i.ibb.co/3NvpYp2/upload-398781d371d354427bb455356731258c.png)
