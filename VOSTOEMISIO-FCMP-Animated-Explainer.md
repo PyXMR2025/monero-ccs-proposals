@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: VOSTOEMISIO - FCMP Animated Explainer Video & Remake Introductory Video
+title: "VOSTOEMISIO - FCMP Animated Explainer Video & Remake Introductory Video"
 author: VOSTOEMISIO
 date: July 29, 2024
 amount: 33
@@ -19,6 +19,7 @@ payouts:
   - date:
     amount:
 ---
+
 Hey Everyone,
 
 After receiving the community’s feedback, we're excited to announce our revised proposal: two videos, one explainer about FCMP (Full-Chain Membership Proofs) and a remake of the outdated "What is Monero?" video. This will be our 4th and 5th video for the Monero CCS. 
