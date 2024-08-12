@@ -2,7 +2,7 @@
 layout: wip
 title: selsta part-time monero development (3 months)
 author: selsta
-date: 03 August 2023
+date: 03 August 2024
 amount: 134
 milestones:
   - name: August
