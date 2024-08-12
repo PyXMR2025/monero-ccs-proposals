@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Part-time + Flexible Work on getmonero.org (1 Month)
 author: HardenedSteel
 date: 31 July, 2024
