@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: "VOSTOEMISIO - FCMP Animated Explainer Video & Remake Introductory Video"
+title: "VOSTOEMISIO - FCMP Animated Explainer Video and Remake Introductory Video"
 author: VOSTOEMISIO
 date: July 29, 2024
 amount: 33
