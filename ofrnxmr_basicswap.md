@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "ofrnxmr feat BasicSwapDEX - take over the world pt 2"
 author: ofrnxmr
 date: 12 August 2024
