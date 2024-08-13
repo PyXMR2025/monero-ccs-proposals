@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: Cleanup and production ready
     funds: 35 XMR
-    done:
-    status: unfinished
+    done: 12 August 2024
+    status: finished
   - name: Monero-GUI integration
     funds: 10 XMR
     done:
@@ -26,8 +26,8 @@ payouts:
     amount: 5.38
   - date: 29 July 2024
     amount: 5
-  - date:
-    amount:
+  - date: 13 August 2024
+    amount: 35
   - date:
     amount:
 ---
