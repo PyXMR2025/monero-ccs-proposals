@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: hinto-janai full-time work on Cuprate (3 months)
 author: hinto-janai
 date: May 5, 2024
@@ -11,19 +11,17 @@ milestones:
     status: finished
   - name: JSON RPC interface
     funds: 40% (105.6)
-    done:
-    status: unfinished
+    done: 9 August 2024
+    status: finished
   - name: Binary/other RPC interface + other work
     funds: 40% (105.6)
-    done:
-    status: unfinished
+    done: 9 August 2024
+    status: finished
 payouts:
   - date: 18 June 2024
     amount: 52.8
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 12 August 2024
+    amount: 211.2
 ---
 
 ## What
