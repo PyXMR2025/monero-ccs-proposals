@@ -1,8 +1,8 @@
 ---
 layout: fr
-title: ofrnxmr feat. BasicSwapDEX - take over the world pt 2
+title: "ofrnxmr feat BasicSwapDEX - take over the world pt 2"
 author: ofrnxmr
-date: 
+date: 12 August 2024
 amount: 1685
 milestones: 
   - name: M0-O (ofnxmr, 1st month)
@@ -98,6 +98,7 @@ payouts:
   - date:
     amount:
 ---
+
 Welcome ladies and gentleman, kids and pets.
 
 Lets skip the intro.
