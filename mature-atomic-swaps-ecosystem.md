@@ -2,33 +2,33 @@
 layout: fr
 title: "From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem"
 author: "binarybaron and einliterflasche"
-date: 2024 July 9
-amount: 672
+date: July 9, 2024
+amount: 729
 milestones:
   - name: 1st month
-    funds: 112
+    funds: 121.5
     status: unfinished
-    done: 
+    done:
   - name: 2nd month
-    funds: 112
+    funds: 121.5
     status: unfinished
-    done: 
+    done:
   - name: 3rd month
-    funds: 112
+    funds: 121.5
     status: unfinished
-    done: 
+    done:
   - name: 4th month
-    funds: 112
+    funds: 121.5
     status: unfinished
-    done: 
+    done:
   - name: 5th month
-    funds: 112
+    funds: 121.5
     status: unfinished
-    done: 
+    done:
   - name: 6th month
-    funds: 112
+    funds: 121.5
     status: unfinished
-    done: 
+    done:
 payouts:
   - date:
     amount:
@@ -77,7 +77,7 @@ We're excited to keep working on atomic swaps. While swaps work realiably under 
 
 We are asking the community for funding in order to be able to focus our efforts on improving the atomic swaps ecosystem.
 
-We request 672 XMR for continued development for 6 months. At the end of each month 112 XMR will be paid out. We will dedicate 35 hours of focused work per week per person. Our hourly rate is 60 EUR. We're calcuating these amounts at a current average price of 150 EUR/XMR.
+We request 729 XMR for continued development for 6 months. At the end of each month 121.5 XMR will be paid out. We will dedicate 35 hours of focused work per week per person. Our hourly rate is 60 EUR. We're calcuating these amounts at a current average price of 138 EUR/XMR.
 
 We will be providing monthly detailed updates in the comment section.
 
