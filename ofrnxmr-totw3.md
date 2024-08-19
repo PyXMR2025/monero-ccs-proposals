@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: help ofrnxmr take over the world pt 3
+title: ofrnxmr support, docs, site, meta++ (totw pt3)
 author: ofrnxmr
 date: July 31, 2024
 amount: 168
