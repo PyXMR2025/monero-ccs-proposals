@@ -17,10 +17,9 @@ milestones:
     funds: 70.12
     done:
     status: unfinished
-
 payouts:
-  - date:
-    amount:
+  - date: 4 September 2024
+    amount: 69
   - date:
     amount:
   - date:
