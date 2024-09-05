@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Research Computing Upgrade
 author: Gingeropolous
 date: May 10, 2022
@@ -15,19 +15,17 @@ milestones:
     status: finished
   - name: Month 2 support 
     funds: 8
-    done:
-    status: unfinished
+    done: 23 August 2024
+    status: finished
   - name: Month 3 support 
     funds: 8
-    done:
-    status: unfinished
+    done: 24 August 2024
+    status: finished
 payouts:
   - date: 27 December 2022
     amount: 35
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 4 September 2024
+    amount: 16
 ---
 
 # Gingeropolous CCS Request
