@@ -5,21 +5,21 @@ author: escapethe3RA
 date: Jul 10, 2024
 amount: 42
 milestones:
-  - name: April
+  - name: July
     funds: 14
-    done:
-    status: unfinished
-  - name: May
+    done: 31 July 2024
+    status: finished
+  - name: August
     funds: 14
-    done:
-    status: unfinished
-  - name: June
+    done: 31 August 2024
+    status: finished
+  - name: September
     funds: 14
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 5 September 2024
+    amount: 28
   - date:
     amount:
   - date:
