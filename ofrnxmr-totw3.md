@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: ofrnxmr support, docs, site, meta++ (totw pt3)
 author: ofrnxmr
 date: July 31, 2024
