@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem"
 author: "binarybaron and einliterflasche"
 date: July 9, 2024
