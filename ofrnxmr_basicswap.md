@@ -7,20 +7,20 @@ amount: 1685
 milestones: 
   - name: M0-O (ofnxmr, 1st month)
     funds: 20 XMR
-    done:
-    status: unfinished
+    done: 3 September 2024
+    status: finished
   - name: M0-Y (80xmr bounties, 3 months)
     funds: 80 XMR
     done:
     status: unfinished
   - name: M0-F (~0-160hrs, 1st month)
     funds: 40 XMR
-    done:
-    status: unfinished
+    done: 4 September 2024
+    status: finished
   - name: M0-B (~0-160hrs, 1st month)
     funds: 55 XMR
-    done:
-    status: unfinished
+    done: 4 September 2024
+    status: finished
   - name: M1-O (ofrnxmr, 2nd month)
     funds: 20 XMR
     done:
@@ -67,8 +67,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 14 September 2024
+    amount: 115
   - date:
     amount:
   - date:
