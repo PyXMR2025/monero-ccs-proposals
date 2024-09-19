@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: German translation of Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles)
 author: Wobole
 date: June 27, 2021
@@ -18,6 +18,17 @@ payouts:
     amount:
   - date:
     amount:
+---
+
+
+## Proposal Update 2024/09/05
+
+- Wobole completed this proposal Jan 22, 2022 as confirmed independantly by 2, native german, community members.
+- A partial address was posted in [this payout request](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/237#note_21125). 
+- The full address was never shared with Luigi or the acting CCS Coordinator at that time.
+- Wobole has 1 year from now, to attempt to claim these funds by pasting a _new_ payout address from the same Gitlab account. 
+- After 2025-09-05 the entire balance (9.9 XMR) will be returned to the General Fund.
+
 ---
 
 Hello everybody, this is Wobole again :)
