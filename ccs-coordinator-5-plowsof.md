@@ -2,7 +2,7 @@
 layout: fr
 title: CCS Coordinator
 author: plowsof
-date: 2024-09-14
+date: 2024 09 14
 amount: 99.0
 milestones:
   - name: Month 1 
