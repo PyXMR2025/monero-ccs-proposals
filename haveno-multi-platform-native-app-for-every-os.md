@@ -22,13 +22,13 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date: November 10, 2024
+  - date:
     amount: 75
-  - date: November 10, 2024
+  - date:
     amount: 75
-  - date: November 10, 2024
+  - date:
     amount: 15
-  - date: December 1, 2024
+  - date:
     amount: 50
 ---
 # Haveno Multi-Platform Native App for Android, iOS, Windows, MacOS and Linux
