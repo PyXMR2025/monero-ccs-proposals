@@ -26,6 +26,19 @@ payouts:
     amount:
 ---
 
+### Proposal closed
+
+The remaining funds (121XMR) have been donated to the general fund.
+
+- Xiphon has not been seen/heard of for >2 years.
+- This proposal has been abandonned.
+- Xiphons total earnings from the CCS (year/xmr/price on day of payout(s))
+  - 2019: 190, $12533.36 USD
+  - 2020: 1051, $86310.75 USD
+  - 2021: 222.0, $56598.92 USD
+- Should they re-appear they are welcome to create a fresh proposal.
+
+
 # What
 
 Would love to prolong my Monero coding for another 3 months and dedicate 40h/week, i.e. to work full-time.
