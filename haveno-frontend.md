@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Haveno frontend development
 author: Haveno
 date: Mar 16, 2022
@@ -30,6 +30,20 @@ payouts:
     amount: 151
   - date: 20 May 2022
     amount: 151
+---
+
+
+## Proposal closure / Repurposing of funds (3rd Sep, 2024)
+
+- The proposed structure for Haveno is no longer feasible.
+- No progress has been made in 2 years.
+- A developer (kewbit) has stepped forward to work on the project.
+- Due to these reasons, this proposal is deemed void and the remaining 453XMR will be repurposed.
+
+215XMR will be used to fund a [Haveno Multi-Platform Native App For Every OS](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/489) that will meet all the [functional requirements](https://github.com/haveno-dex/haveno-design/blob/master/functional_requirements.md) of a Haveno UI.
+
+The remaining funds will be used for further Haveno front end related work in keeping with the original goals of this proposal (at the communities discretion)
+
 ---
 
 Hello again everyone. As promised, after improving Haveno's structure, we come back with a new (much cheaper) CCS proposal.
