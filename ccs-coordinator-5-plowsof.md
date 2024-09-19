@@ -5,7 +5,7 @@ author: plowsof
 date: 2024 September 14
 amount: 99.0
 milestones:
-  - name: Month 1 
+  - name: Month 1
     funds: 33.0
     status: unfinished
     done:
