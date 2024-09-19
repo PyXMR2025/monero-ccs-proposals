@@ -2,7 +2,7 @@
 layout: fr
 title: CCS Coordinator
 author: plowsof
-date: 2024 09 14
+date: 2024 September 14
 amount: 99.0
 milestones:
   - name: Month 1 
@@ -25,6 +25,7 @@ payouts:
   - date:
     amount: 33.0
 ---
+
 # Who?
 
 Hello, plowsof here, I show up and try to be helpful. My [previous](https://ccs.getmonero.org/proposals/plowsof-com-rel.html) [proposals](https://ccs.getmonero.org/proposals/plowsof-ccs-coordinator-2.html) [happened](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/418), [previously](https://ccs.getmonero.org/proposals/plowsof-ccs-coordinator-4.html). I would like to make it happen again, and do more of the same things.
