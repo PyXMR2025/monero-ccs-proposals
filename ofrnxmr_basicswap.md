@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: M0-Y (80xmr bounties, 3 months)
     funds: 80 XMR
-    done:
-    status: unfinished
+    done: 28 September 2024
+    status: finished
   - name: M0-F (~0-160hrs, 1st month)
     funds: 40 XMR
     done: 4 September 2024
@@ -69,8 +69,8 @@ milestones:
 payouts:
   - date: 14 September 2024
     amount: 115
-  - date:
-    amount:
+  - date: 28 September 2024
+    amount: 80
   - date:
     amount:
   - date:
