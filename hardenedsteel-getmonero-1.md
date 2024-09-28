@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Part-time + Flexible Work on getmonero.org (1 Month)
 author: HardenedSteel
 date: 31 July, 2024
@@ -7,11 +7,11 @@ amount: 5
 milestones:
   - name: Month 1
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 15 September 2024
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 27 September 2024
+    amount: 5
 ---
 
 
