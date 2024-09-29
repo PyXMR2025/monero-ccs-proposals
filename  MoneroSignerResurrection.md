@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "Monero Signer Resurrection: Reviving and Enhancing the Monero Signing Project"
 author: Thor a.k.a vthor a.k.a DiosDelRayo
 date: May 24, 2024
@@ -19,8 +19,8 @@ milestones:
     status: finished
   - name: Monero-GUI integration
     funds: 10 XMR
-    done:
-    status: unfinished
+    done: 27 September 2024
+    status: finished
 payouts:
   - date: 20 June 2024
     amount: 5.38
@@ -28,8 +28,8 @@ payouts:
     amount: 5
   - date: 13 August 2024
     amount: 35
-  - date:
-    amount:
+  - date: 28 September 2024
+    amount: 10
 ---
 # Monero Signer Resurrection: Reviving and Enhancing the Monero Signing Project
 
