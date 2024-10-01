@@ -3,7 +3,7 @@ layout: fr
 title: Part-time Work on getmonero.org (2 Month)
 author: HardenedSteel
 date: 14 September, 2024
-amount: 5
+amount: 10
 milestones:
   - name: Month 1
     funds: 5 XMR
