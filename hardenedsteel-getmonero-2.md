@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Part-time Work on getmonero.org (2 Month)
 author: HardenedSteel
 date: 14 September, 2024
