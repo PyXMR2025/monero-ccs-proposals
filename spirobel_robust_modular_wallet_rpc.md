@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Robust and modular wallet-rpc library
 date: Sep 10, 2024
 author: Spirobel
