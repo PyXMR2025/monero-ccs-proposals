@@ -7,7 +7,7 @@ amount: 100
 milestones:
   - name: Deved + prepayment for first month
     funds: 20 XMR
-    done:
+    done: 9 October 2024
     status: finished
   - name: First month
     funds: 30 XMR
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 16 October 2024
+    amount: 20
   - date:
     amount:
   - date:
