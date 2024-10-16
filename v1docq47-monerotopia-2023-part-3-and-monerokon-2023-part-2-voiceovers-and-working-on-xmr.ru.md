@@ -20,7 +20,7 @@ milestones:
   - name: September
     funds: 16.66% (9.6 XMR)
     done: September 30, 2024
-    status: unfinished
+    status: finished
   - name: October
     funds: 16.66% (9.6 XMR)
     done: October 31, 2024
@@ -36,8 +36,8 @@ payouts:
     amount: 9.6
   - date: 4 September 2024
     amount: 9.6
-  - date:
-    amount:
+  - date: 15 October 2024
+    amount: 9.6
   - date:
     amount:
   - date:
