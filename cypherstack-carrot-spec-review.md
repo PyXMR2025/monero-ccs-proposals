@@ -2,7 +2,7 @@
 layout: fr
 title: Carrot Spec Peer Review
 author: Monero Research Lab
-date: March 22, 2023
+date: October 11, 2024
 amount: 126
 milestones:
   - name: Carrot spec peer review
@@ -27,7 +27,7 @@ The deliverable is a write-up which will include security proofs for all propert
 ## Out of scope
 
 - Multiparty computation. There are no specific protocols presented for this, and no corresponding security model of proofs of security.
-- Colloborative construction. For the same reason as multiparty computation.
+- Collaborative construction. For the same reason as multiparty computation.
 
 ## Funding
 
