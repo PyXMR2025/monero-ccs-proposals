@@ -7,8 +7,8 @@ amount: 204
 milestones:
   - name: Month 1
     funds: 33% (68 XMR)
-    done:
-    status: unfinished
+    done: 10 October 2024
+    status: finished
   - name: Month 2
     funds: 33% (68 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 16 October 2024
+    amount: 68
   - date:
     amount:
   - date:
