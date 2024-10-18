@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Carrot Spec Peer Review
 author: Monero Research Lab
 date: October 11, 2024
