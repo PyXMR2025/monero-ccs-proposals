@@ -11,8 +11,8 @@ milestones:
     status: unfinished
   - name: Write the Protocol Interface
     funds: 75
-    done:
-    status: unfinished
+    done: 13 October 2024
+    status: finished
   - name: Create the Desktop Connector
     funds: 15
     done:
@@ -22,7 +22,7 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
+  - date: 23 October 2024
     amount: 75
   - date:
     amount: 75
