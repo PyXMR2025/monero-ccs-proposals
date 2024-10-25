@@ -10,8 +10,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 24 October 2024
+    amount: 126
 ---
 
 ## Carrot Peer Review
