@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 4 September 2024
     amount: 69
-  - date:
-    amount:
+  - date: 26 October 2024
+    amount: 69
   - date:
     amount:
 ---
