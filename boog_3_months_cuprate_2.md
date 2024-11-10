@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Month 2
     funds: 72 XMR
-    done:
-    status: unfinished
+    done: 29 October 2024
+    status: finished
   - name: Month 3
     funds: 72 XMR
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 27 September 2024
     amount: 71
-  - date:
-    amount:
+  - date: 10 November 2024
+    amount: 72
   - date:
     amount:
 ---
