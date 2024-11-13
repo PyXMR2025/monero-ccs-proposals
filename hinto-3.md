@@ -15,11 +15,11 @@ milestones:
     status: unfinished
   - name: Other work
     funds: 20% (44.2)
-    done:
-    status: unfinished
+    done: 4 November 2024
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 12 November 2024
+    amount: 44.2
   - date:
     amount:
   - date:
