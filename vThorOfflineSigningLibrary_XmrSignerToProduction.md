@@ -7,8 +7,8 @@ amount: 196
 milestones:
   - name: Upfront
     funds: 20 XMR
-    done:
-    status: unfinished
+    done: 11 November 2024
+    status: finished
   - name: First month, minus upfront
     funds: 46 XMR
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 15 November 2024
+    amount: 20
   - date:
     amount:
   - date:
