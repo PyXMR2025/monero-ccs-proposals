@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Offline Signing Library for XmrSigner to Production
 date: August 31, 2024
 author: Thor a.k.a. vThor a.k.a DiosDelRayo
