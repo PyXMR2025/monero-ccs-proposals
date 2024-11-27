@@ -2,7 +2,7 @@
 layout: fr
 title: Gingeropolous 1TB MRC upgrade
 author: Gingeropolous
-date: 2024-11-09
+date: November 9, 2024
 amount: 20
 milestones:
   - name: Install 1TB ram in new epyc server
