@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Audit monero-serai and monero-wallet
 author: kayabaNerve
 date: October 11, 2024
