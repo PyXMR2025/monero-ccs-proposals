@@ -10,8 +10,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 3 December 2024
+    amount: 1050
 ---
  
 monero-serai and monero-wallet are public-good libraries built by myself as part of my work on Serai DEX. Despite the "-serai" name, both libraries have always been intended to be usable and actually used by the Monero community as a whole. Development has been ongoing for over two years. During that time, I have hired developers to work on and review it (including j-berman who truly needs credit and acknowledgement for their contributions), yet have never seeked community funding for my work. Now that monero-serai and monero-wallet are ready for their 1.0 release, meaning they have reached the necessary milestone to be considered sufficiently developed and meaningful, I have decided to request the community's support for their audits.
