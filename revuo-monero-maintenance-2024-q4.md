@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: November
     funds: 3
-    done:
-    status: unfinished
+    done: 28 November 2024
+    status: finished
   - name: December
     funds: 2.5
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 12 November 2024
     amount: 3
-  - date:
-    amount:
+  - date: 6 December 2024
+    amount: 3
   - date:
     amount:
 ---
