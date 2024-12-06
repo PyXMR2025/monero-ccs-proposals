@@ -35,16 +35,16 @@ milestones:
     status: finished
   - name: M2-O (ofrnxmr, 3rd month)
     funds: 20 XMR
-    done:
-    status: unfinished
+    done: 30 November 2024
+    status: finished
   - name: M2-F (~320-480hrs, 3rd month)
     funds: 40 XMR
-    done:
-    status: unfinished
+    done: 30 November 2024
+    status: finished
   - name: M2-B (~320-480hrs, 3rd month)
     funds: 55 XMR
-    done:
-    status: unfinished
+    done: 30 November 2024
+    status: finished
   - name: M3-O (ofrnxmr, til completion)
     funds: 100 XMR
     done:
@@ -73,8 +73,8 @@ payouts:
     amount: 80
   - date: 23 October 2024
     amount: 115
-  - date:
-    amount:
+  - date: 6 December 2024
+    amount: 115
   - date:
     amount:
   - date:
