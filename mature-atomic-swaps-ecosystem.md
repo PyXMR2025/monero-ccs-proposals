@@ -11,8 +11,8 @@ milestones:
     done: 15 October 2024
   - name: 2nd month
     funds: 121.5
-    status: unfinished
-    done:
+    status: finished
+    done: 26 November 2024
   - name: 3rd month
     funds: 121.5
     status: unfinished
@@ -32,8 +32,8 @@ milestones:
 payouts:
   - date: 19 October 2024
     amount: 121.5
-  - date:
-    amount:
+  - date: 6 December 2024
+    amount: 121.5
   - date:
     amount:
   - date:
