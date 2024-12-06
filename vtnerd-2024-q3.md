@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: vtnerd full-time 2024 q3
 author: Lee Clagett (vtnerd)
 date: July 11, 2024
@@ -22,8 +22,8 @@ payouts:
     amount: 69
   - date: 26 October 2024
     amount: 69
-  - date:
-    amount:
+  - date: 6 December 2024
+    amount: 70.12
 ---
 
 3-Months full-time software development on monero "core" components in 2024 q3.
