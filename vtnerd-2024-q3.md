@@ -15,8 +15,8 @@ milestones:
     status: unfinished
   - name: Month 3 (480 hours)
     funds: 70.12
-    done:
-    status: unfinished
+    done: 22 November 2024
+    status: finished
 payouts:
   - date: 4 September 2024
     amount: 69
