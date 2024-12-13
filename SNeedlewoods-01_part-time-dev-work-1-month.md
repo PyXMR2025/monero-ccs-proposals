@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: SNeedlewoods-01_part-time dev work (1 month)
 author: Sneedlewooods
 date: October 4, 2024
@@ -7,11 +7,11 @@ amount: 2.15
 milestones:
   - name: month 1
     funds: 18.64
-    done:
-    status: unfinished
+    done: 4 December 2024
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 13 December 2024
+    amount: 18.64
 ---
 
 ## What?
