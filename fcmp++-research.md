@@ -50,8 +50,8 @@ payouts:
     amount: 38
   - date: 25 November 2024
     amount: 38.5
-  - date:
-    amount:
+  - date: 13 December 2024
+    amount: 118.5
   - date:
     amount:
   - date:
