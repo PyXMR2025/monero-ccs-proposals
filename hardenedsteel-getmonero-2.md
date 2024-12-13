@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Part-time Work on getmonero.org (2 Month)
 author: HardenedSteel
 date: 14 September, 2024
@@ -7,17 +7,15 @@ amount: 10
 milestones:
   - name: Month 1
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 3 December 2024
+    status: finished
   - name: Month 2
     funds: 5 XMR
-    done:
-    status: unfinished
+    done: 3 December 2024
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 13 December 2024
+    amount: 10
 ---
 
 # Who?
