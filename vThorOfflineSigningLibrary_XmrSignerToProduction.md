@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: First month, minus upfront
     funds: 46 XMR
-    done:
-    status: unfinished
+    done: 5 December 2024
+    status: finished
   - name: Second month
     funds: 65 XMR
     done:
@@ -24,8 +24,8 @@ milestones:
 payouts:
   - date: 15 November 2024
     amount: 20
-  - date:
-    amount:
+  - date: 13 December 2024
+    amount: 46
   - date:
     amount:
   - date:
