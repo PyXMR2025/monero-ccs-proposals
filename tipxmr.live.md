@@ -8,23 +8,47 @@ milestones:
   - name: Milestone 1 - Basic setup of webpack with monero javascript and react
     funds: 2% (1.44 XMR)
     done:
-    status: unfinished
+    status: completed
   - name: Milestone 2 - Working Prototype with implemented WASM wallet and front-end mockups
     funds: 48% (34.56 XMR)
     done:
-    status: unfinished
+    status: completed
   - name: Milestone 3 - Finished product and launch of serivce
     funds: 50% (36 XMR)
     done:
-    status: unfinished
+    status: completed
 payouts:
   - date:
-    amount:
+    amount: 1.44
   - date:
     amount:
   - date:
     amount:
 ---
+
+## Proposal deprecation / Repurposing of funds (21st Dec, 2024)
+
+AlexAnarcho and hundehausen shared a [candid update](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/524#note_27732) regarding progress of TipXMR. Exerpt below:
+
+>We were young and naive and thought "how hard can it be to code this up" - harder than we thought it turned out.         
+>
+>We had very high standards, trying to use WASM wallets on the client-side where no info is leaked to the hoster of the TipXMR service, but this lead to a high barrier - which in turn lead to us never shipping anything   
+>
+>[...]    
+>
+>We are okay to deprecate the TipXMR CCS proposal and pass our collected funds on to this XMRChat proposal.
+
+The remaining funds from:
+
+* Milestone 2 - Working Prototype with implemented WASM wallet and front-end mockups (34.56XMR)
+* Milestone 3 - Finished product and launch of serivce (36XMR)
+
+Will be rewarded to https://xmrchat.com/ - [source](https://github.com/sa8ab/xmrchat)
+
+Who instead of implementing a WASM wallet to not share view keys with the service host have performed the following tasks deemed to be of the same value/importance:
+
+* Integrated monero-lws to handle multiple streamer view-keys.
+* extra misc. features such as a personal donation page with comments attatched.    
 
 # CCS Proposal: tipxmr.live - a non-custodial livestream donation service for OBS
 
