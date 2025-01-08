@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Gingeropolous 1TB MRC upgrade
 author: Gingeropolous
 date: November 9, 2024
