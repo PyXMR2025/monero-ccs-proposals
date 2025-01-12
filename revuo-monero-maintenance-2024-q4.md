@@ -1,5 +1,5 @@
 ---
-layout: wcp
+layout: cp
 title: Revuo Monero maintenance (2024 Q4)
 author: rottenwheel
 date: September 2, 2024
