@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: wcp
 title: Revuo Monero maintenance (2024 Q4)
 author: rottenwheel
 date: September 2, 2024
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: December
     funds: 2.5
-    done:
-    status: unfinished
+    done: 26 December 2024
+    status: finished
 payouts:
   - date: 12 November 2024
     amount: 3
   - date: 6 December 2024
     amount: 3
-  - date:
-    amount:
+  - date: 12 January 2025
+    amount: 2.5
 ---
 
 # What
