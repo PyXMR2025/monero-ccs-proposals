@@ -1,5 +1,5 @@
 ---
-layout: p
+layout: cp
 title: j-berman full-time development (3 months)
 author: j-berman
 date: August 26, 2024
