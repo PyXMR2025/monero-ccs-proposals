@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "VOSTOEMISIO - FCMP Animated Explainer Video"
 author: VOSTOEMISIO
 date: July 29, 2024
@@ -7,11 +7,11 @@ amount: 20
 milestones:
   - name: Complete FCMP Video
     funds: 20
-    done:
-    status: unfinished
+    done: 16 December 2024
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 13 January 2025
+    amount: 20
 ---
 
 Hey Everyone,
