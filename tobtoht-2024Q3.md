@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "tobtoht full-time feather + core development (3 months)"
 author: tobtoht
 date: 20 Aug 2024
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: 240 hours
     funds: 50% (89.5)
-    done:
-    status: unfinished
+    done: 20 December 2024
+    status: finished
 payouts:
   - date: 15 October 2024
     amount: 89.5
-  - date:
-    amount:
+  - date: 13 January 2025
+    amount: 89.5
 ---
 
 ### What
