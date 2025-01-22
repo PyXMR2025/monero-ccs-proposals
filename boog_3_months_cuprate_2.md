@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title:  Boog900 full time work on Cuprate (3 months)
 author: Boog900
 date: June 28, 2024
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 72 XMR
-    done:
-    status: unfinished
+    done: 6 January 2025
+    status: finished
 payouts:
   - date: 27 September 2024
     amount: 71
   - date: 10 November 2024
     amount: 72
-  - date:
-    amount:
+  - date: 21 January 2025
+    amount: 72
 ---
 
 This proposal is to continue my work on [Cuprate](https://github.com/Cuprate/cuprate).
