@@ -7,8 +7,8 @@ amount: 130
 milestones:
   - name: December
     funds: 33% (44 XMR)
-    done:
-    status: unfinished
+    done: 14 January 2025
+    status: finished
   - name: January
     funds: 33% (43 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 22 January 2025
+    amount: 44
   - date:
     amount:
   - date:
