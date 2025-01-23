@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: jeffro256 full-time development 2024Q4
 author: jeffro256
 date: September 16, 2024
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 33% (48.0)
-    done:
-    status: unfinished
+    done: 14 January 2025
+    status: finished
 payouts:
   - date: 12 November 2024
     amount: 48
   - date: 12 January 2025
     amount: 48
-  - date:
-    amount:
+  - date: 23 January 2025
+    amount: 48
 ---
 
 ## What
