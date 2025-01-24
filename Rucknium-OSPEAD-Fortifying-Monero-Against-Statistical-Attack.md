@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Milestone 2 - Deliver initial probability density function to scientific review panel
     funds: 74
-    done:
-    status: unfinished
+    done: 15 January 2025
+    status: finished
   - name: Milestone 3 - Deliver final version of probability density function to Monero developers
     funds: 30
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 24 September 2022
     amount: 67
-  - date:
-    amount:
+  - date: 23 January 2025
+    amount: 74
   - date:
     amount:
 ---
