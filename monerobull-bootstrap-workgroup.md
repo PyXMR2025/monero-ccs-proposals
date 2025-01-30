@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "monerobull for website workgroup"
 author: monerobull
 date: 5 July 2024
@@ -7,23 +7,19 @@ amount: 30
 milestones:
   - name: 2 meetings + hours worked
     funds: 10 XMR
-    done:
-    status: unfinished
+    done: 1 January 2025
+    status: finished
   - name: 2 meetings + hours worked
     funds: 10 XMR
-    done:
-    status: unfinished
+    done: 1 January 2025
+    status: finished
   - name: 2 meetings + hours worked
     funds: 10 XMR
-    done:
-    status: unfinished
+    done: 1 January 2025
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 30 January 2025
+    amount: 30
 ---
 
 # Who, what, when, where?
