@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Gingeropolous 1TB MRC upgrade
 author: Gingeropolous
 date: November 9, 2024
@@ -7,11 +7,11 @@ amount: 20
 milestones:
   - name: Install 1TB ram in new epyc server
     funds: 100% (20 xmr)
-    done:
-    status: unfinished
+    done: 24 January 2025
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 3 February 2025
+    amount: 20
 ---
 
 
