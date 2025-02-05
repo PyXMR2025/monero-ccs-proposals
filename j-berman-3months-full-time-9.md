@@ -7,8 +7,8 @@ amount: 360 Monero
 milestones:
   - name: Month 1
     funds: 25% (90 Monero)
-    done:
-    status: unfinished
+    done: 21 January 2025
+    status: finished
   - name: Month 2
     funds: 25% (90 Monero)
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 4 February 2025
+    amount: 90
   - date:
     amount:
   - date:
