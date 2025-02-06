@@ -51,12 +51,12 @@ milestones:
     status: unfinished
   - name: M3-F - Frontend GUI v3.0.0 - v5.0.0+ (prepaid, ~6 months)
     funds: 320 XMR
-    done:
-    status: unfinished
+    done: 19 January 2025
+    status: finished
   - name: M3-B - Backend v0.13 - v0.15+ (prepaid, ~6 months)
     funds: 410 XMR
-    done:
-    status: unfinished
+    done: 19 January 2025
+    status: finished
   - name: M4 - Delivery of 1.0 (postpaid, ~3 months)
     funds: 190 XMR
     done:
@@ -75,8 +75,8 @@ payouts:
     amount: 115
   - date: 6 December 2024
     amount: 115
-  - date:
-    amount:
+  - date: 6 February 2025
+    amount: 730
   - date:
     amount:
   - date:
