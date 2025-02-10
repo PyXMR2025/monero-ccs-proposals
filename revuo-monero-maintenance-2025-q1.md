@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Revuo Monero maintenance (2025 Q1)
 author: rottenwheel
 date: December 26, 2024
