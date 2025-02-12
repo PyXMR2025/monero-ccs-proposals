@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "tipxmr.live - a non-custodial livestream donation service for OBS"
 author: AlexAnarcho and hundehausen
 date: September 16, 2020
@@ -11,19 +11,17 @@ milestones:
     status: completed
   - name: Milestone 2 - Working Prototype with implemented WASM wallet and front-end mockups
     funds: 48% (34.56 XMR)
-    done:
+    done: 21 December 2024
     status: completed
   - name: Milestone 3 - Finished product and launch of serivce
     funds: 50% (36 XMR)
-    done:
+    done: 21 December 2024
     status: completed
 payouts:
   - date: 17 March 2022
     amount: 1.44
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 12 February 2025
+    amount: 70.56
 ---
 
 ## Proposal deprecation / Repurposing of funds (21st Dec, 2024)
