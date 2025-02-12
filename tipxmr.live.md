@@ -7,7 +7,7 @@ amount: 72
 milestones:
   - name: Milestone 1 - Basic setup of webpack with monero javascript and react
     funds: 2% (1.44 XMR)
-    done:
+    done: 17 March 2022
     status: completed
   - name: Milestone 2 - Working Prototype with implemented WASM wallet and front-end mockups
     funds: 48% (34.56 XMR)
@@ -18,7 +18,7 @@ milestones:
     done:
     status: completed
 payouts:
-  - date:
+  - date: 17 March 2022
     amount: 1.44
   - date:
     amount:
