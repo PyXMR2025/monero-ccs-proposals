@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Three Months of Translation Coordination
 author: netrik182
 date: December 7, 2021
@@ -26,6 +26,10 @@ payouts:
     amount: 
 
 ---
+
+### Proposal closure / funds reallocation 1st Feb 2025
+
+The remaining 15XMR from this proposal have been transferred to [v1docq47](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests?scope=all&state=merged&author_username=v1docq47)
 
 ## Translation Coordinator for the Monero Project
 My first proposal is now completed and I would like to continue working as translation coordinator for the upcoming months. You can read more about the initial proposal [here](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/260), also read the reports in the comments and on [reddit](https://www.reddit.com/r/Monero/comments/qqqoch/ccs_report_translation_coordinator/). 
