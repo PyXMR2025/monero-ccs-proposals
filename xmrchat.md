@@ -32,6 +32,8 @@ payouts:
     amount:
 ---
 
+_Note: 70.56XMR has been awarded to XMRChat from [TipXMR](https://ccs.getmonero.org/proposals/tipxmr.live.html)_
+
 Who?
 
 Douglas Tuman - Host of popular YouTube show, Monero Talk. Host of weekly show Monerotopia livestreamed in multiple platforms. Creator of Monerotopia annual conference - monerotopia.com. Creator of the Copamonero annual Monero-sponsored soccer tournament - copamonero.com. Sets up booth/tent at Libertarian party conventions and Porcfest to spread Monero awareness. Creator of gratuitas.org coffee beans business (and coffee brewer/bartender at XMR meetups/conventions. Founder of xmrbazaar.com online, p2p marketplace. Founder of plug-n-play XMR node implementation, the Nodo - moneronodo.com. X handle @DouglasTuman.
