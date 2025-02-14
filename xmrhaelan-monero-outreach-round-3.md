@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero Outreach Round 3
 author: xmrhaelan
 date: 22 May 2019
@@ -22,9 +22,13 @@ payouts:
     amount: 36.66
   - date: 23 November 2020
     amount: 36.67
-  - date: TBD
+  - date:
     amount: 36.67
 ---
+
+### Proposal closure/repurposed
+
+_All remaining funds (36.67 XMR) have been transferred to [Monerotopia 2024 marketing and publicity](https://ccs.getmonero.org/proposals/monerotopia2024publicity.html)_
 
 A big thanks again to everyone who supported Round 2 of funding for Monero Outreach! Final report can be found [here](https://www.reddit.com/r/Monero/comments/bonpt3/monero_outreach_round_2_ccs_final_report_see_what/). 
 We have made significant progress in our ability to support and enhance the outreach efforts of the Monero Community, and are beginning to receive requests for support from various areas of the Monero ecosystem. We are honored to be able to support Monero in this way, and we look forward even more to what is ahead!
