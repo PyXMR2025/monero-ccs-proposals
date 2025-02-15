@@ -31,6 +31,9 @@ payouts:
   - date: 28 September 2024
     amount: 10
 ---
+
+_Note: this proposal has been awarded 55.38 XMR from [MoneroSigner](https://ccs.getmonero.org/proposals/MoneroSigner.html)_
+
 # Monero Signer Resurrection: Reviving and Enhancing the Monero Signing Project
 
 ## Proposal
