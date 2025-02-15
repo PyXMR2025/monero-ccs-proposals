@@ -3,7 +3,7 @@ layout: wip
 title: Standalone AcceptXMR
 author: busyboredom
 date: February 31, 2023
-amount: 14
+amount: 44
 milestones:
   - name: Dockerize AcceptXMR
     funds: 14
@@ -20,7 +20,13 @@ milestones:
 payouts:
   - date: 19 July 2024
     amount: 14
+  - date:
+    amount:
+  - date:
+    amount:
 ---
+
+_Note: this proposal has been awarded 30 XMR from [xmrSale](https://ccs.getmonero.org/proposals/xmrsale-2021.html)_
 
 # Standalone AcceptXMR
 Another payment gateway CCS proposal.
