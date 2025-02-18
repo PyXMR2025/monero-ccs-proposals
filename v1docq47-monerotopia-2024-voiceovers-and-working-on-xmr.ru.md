@@ -1,6 +1,6 @@
 ---
 layout: fr
-title: v1docq47 - monerotopia 2024 voiceovers and working on xmr.ru
+title: v1docq47 - monerokon 2024 voiceovers and working on xmr.ru
 author: v1docq47
 date: December 31, 2024
 amount: 45.6
