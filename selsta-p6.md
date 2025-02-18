@@ -1,6 +1,6 @@
 ---
 layout: cp
-title: selsta part-time monero development (3 months)
+title: selsta part-time monero development (3 months) (6)
 author: selsta
 date: 30 July 2022
 amount: 110
