@@ -1,32 +1,34 @@
 ---
 layout: cp
-title: selsta part-time monero development (3 months)
+title: selsta part-time monero development (3 months) (7)
 author: selsta
-date: 02 November 2023
-amount: 105
+date: 5 November 2022
+amount: 135
 milestones:
   - name: November
-    funds: 33% (35 XMR)
-    done: 12 December 2023
+    funds: 33% (45 XMR)
+    done: 30 November 2022
     status: finished
   - name: December
-    funds: 33% (35 XMR)
-    done: 1 January 2024
+    funds: 33% (45 XMR)
+    done: 31 December 2022
     status: finished
   - name: January
-    funds: 33% (35 XMR)
-    done: 2 February 2024
+    funds: 33% (45 XMR)
+    done: 31 January 2023
     status: finished
 payouts:
-  - date: 2 January 2024
-    amount: 70
-  - date: 15 February 2024
-    amount: 35
+  - date: 9 December 2022
+    amount: 45
+  - date: 13 January 2023
+    amount: 45
+  - date: 13 February 2023
+    amount: 45
 ---
 
 ## What
 
-- Continue the planning of a network upgrade with RandomX changes (https://github.com/monero-project/monero/issues/8827) and Bulletproofs++
+- Focus on setting up community node infrastructure: https://github.com/monero-project/monero/issues/8624
 - Smaller dev work on CLI and GUI
   - Put effort where necessary
 - Testing and reviewing pull requests (CLI, GUI, site)
@@ -38,14 +40,14 @@ payouts:
 
 ## Who
 
-selsta, I have been contributing to monero since around 2018 with over 645 merged commits. Here is a list of my previous work:
+selsta, I have been contributing to monero since around 2018 with over 595 merged commits. Here is a list of my previous work:
 
 - CLI contributions: https://github.com/monero-project/monero/pulls?q=is%3Apr+author%3Aselsta
 - GUI contributions: https://github.com/monero-project/monero-gui/pulls?q=is%3Apr+author%3Aselsta
-- Previous CCS: https://ccs.getmonero.org/proposals/selsta-9.html
+- Previous CCS: https://ccs.getmonero.org/proposals/selsta-6p.html
 
 If funded I will provide monthly updates in the CCS comment section.
 
 ## Proposal
 
-Work for 30 hours per week over the next 3 months (from November to end of January) at a rate of 45€ / hour. At 154€ / XMR (14-day EMA) this makes 105 XMR.
+Work for 30 hours per week over the next 3 months (from November to end of January) at a rate of 45€ / hour. At 120€ / XMR this makes 135 XMR.

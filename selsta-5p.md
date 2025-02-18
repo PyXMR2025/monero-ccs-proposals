@@ -1,33 +1,34 @@
 ---
 layout: cp
-title: selsta part-time monero development (3 months)
+title: selsta part-time monero development (3 months) (5)
 author: selsta
-date: 01 May 2023
-amount: 159
+date: 18 Apr 2022
+amount: 75
 milestones:
   - name: May
-    funds: 33% (53 XMR)
-    done: 31 May 2024
+    funds: 33% (25 XMR)
+    done: 31 May 2022
     status: finished
   - name: June
-    funds: 33% (53 XMR)
-    done: 4 July 2024
+    funds: 33% (25 XMR)
+    done: 30 June 2022
     status: finished
   - name: July
-    funds: 33% (53 XMR)
-    done: 3 August 2024
+    funds: 33% (25 XMR)
+    done: 31 July 2022
     status: finished
 payouts:
-  - date: 9 June 2024
-    amount: 53
-  - date: 16 July 2024
-    amount: 53
-  - date: 11 August 2024
-    amount: 53
+  - date: 13 June 2022
+    amount: 25
+  - date: 6 July 2022
+    amount: 25
+  - date: 4 August 2022
+    amount: 25
 ---
 
 ## What
 
+- Focus on preparing the next network update (Bulletproofs+, view tags, multisig fixes, ...)
 - Smaller dev work on CLI and GUI
   - Put effort where necessary
 - Testing and reviewing pull requests (CLI, GUI, site)
@@ -39,14 +40,14 @@ payouts:
 
 ## Who
 
-selsta, I have been contributing to monero since around 2018 with over 663 merged commits. Here is a list of my previous work:
+selsta, I have been contributing to monero since around 2018 with over 525 merged commits. Here is a list of my previous work:
 
 - CLI contributions: https://github.com/monero-project/monero/pulls?q=is%3Apr+author%3Aselsta
 - GUI contributions: https://github.com/monero-project/monero-gui/pulls?q=is%3Apr+author%3Aselsta
-- Previous CCS: https://ccs.getmonero.org/proposals/selsta-12.html
+- Previous CCS: https://ccs.getmonero.org/proposals/selsta-4p.html
 
 If funded I will provide monthly updates in the CCS comment section.
 
 ## Proposal
 
-Work for 30 hours per week over the next 3 months (from May to end of July) at a rate of 50€ / hour. At 113€ / XMR (14-day EMA) this makes ~159 XMR.
+Work for 30 hours per week over the next 3 months (from May to end of July) at a rate of 45€ / hour. At 214€ / XMR (14 day EMA) this makes 75 XMR.

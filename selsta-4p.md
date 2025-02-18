@@ -1,6 +1,6 @@
 ---
 layout: cp
-title: selsta part-time monero development (3 months)
+title: selsta part-time monero development (3 months) (4)
 author: selsta
 date: 12 Jan 2022
 amount: 95
@@ -45,7 +45,7 @@ selsta, I have been contributing to monero since around 2018 with over 500 merge
 
 - CLI contributions: https://github.com/monero-project/monero/pulls?q=is%3Apr+author%3Aselsta
 - GUI contributions: https://github.com/monero-project/monero-gui/pulls?q=is%3Apr+author%3Aselsta
-- Previous CCS: https://ccs.getmonero.org/proposals/selsta-2.html
+- Previous CCS: https://ccs.getmonero.org/proposals/selsta-3p.html
 
 If funded I will provide monthly updates in the CCS comment section.
 
