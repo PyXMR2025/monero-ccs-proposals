@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: January
     funds: 33% (43 XMR)
-    done:
-    status: unfinished
+    done: 11 February 2025
+    status: finished
   - name: Feburary
     funds: 33% (43 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 22 January 2025
     amount: 44
-  - date:
-    amount:
+  - date: 24 February 2025
+    amount: 44
   - date:
     amount:
 ---
