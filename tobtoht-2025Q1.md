@@ -7,15 +7,15 @@ amount: 150
 milestones:
   - name: 240 hours
     funds: 50% (75)
-    done:
-    status: unfinished
+    done: 2 February 2025
+    status: finished
   - name: 240 hours
     funds: 50% (75)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 24 February 2025
+    amount: 75
   - date:
     amount:
 ---
