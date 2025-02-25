@@ -7,8 +7,8 @@ amount: 8
 milestones:
   - name: January
     funds: 3
-    done:
-    status: unfinished
+    done: 10 February 2025
+    status: finished
   - name: February
     funds: 3
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 24 February 2025
+    amount: 3
   - date:
     amount:
   - date:
