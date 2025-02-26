@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Create Educational Content in Spanish
 author: Lovera
 date: August 28, 2023
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Videos and Educational Articles
     funds: 3.5 XMR
-    done:
-    status: unfinished
+    done: 16 February 2025
+    status: finished
 payouts:
   - date: 11 November 2023
     amount: 3.5
   - date: 15 January 2024
     amount: 3.5
-  - date:
-    amount:
+  - date: 25 February 2025
+    amount: 3.5
 ---
 
 ### Introduction
