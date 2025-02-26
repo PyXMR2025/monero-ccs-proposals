@@ -3,7 +3,7 @@ layout: cp
 title: Continuation of Core Monero Concepts - A Series of Animated Explainers
 author: VOSTOEMISIO
 date: October 3, 2023
-amount: 1
+amount: 37
 milestones:
   - name: Random X and Understanding the significance of ASIC resistance
     funds: 18
@@ -20,19 +20,21 @@ payouts:
     amount: 18
 ---
 
+_Note: this proposal has been awarded 36 XMR from [New Animated Videos](https://ccs.getmonero.org/proposals/savandra-videos-for-monero.html)_
+
 Hey all!
 
 Thank you for the amazing reception and feedback of our first ccs-proposal and the Tail Emission video. We've seen a lot of excitement and engagement with over 7,000 accumulated views in just the initial days.
 
 Our vision is to keep diving deeper into Monero's complex and sometimes tricky and misunderstood features, translating them into short, engaging, and most importantly, understandable animated videos. Here's what we suggest to cover in this proposal:
 
-•	Random X: Understanding the significance of ASIC resistance
+• Random X: Understanding the significance of ASIC resistance
 
-•	Breaking down the how-to and the rationale for P2Pool.
+• Breaking down the how-to and the rationale for P2Pool.
 
-•	Nodes: Why every Monero enthusiast should consider running one.
+• Nodes: Why every Monero enthusiast should consider running one.
 
-•	Fungibility: Explaining its essence in the context of Monero.
+• Fungibility: Explaining its essence in the context of Monero.
 
 Quality & Timeline: 
 
