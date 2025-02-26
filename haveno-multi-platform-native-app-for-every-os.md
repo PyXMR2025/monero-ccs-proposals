@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Haveno Multi-Platform Native App for Android, iOS, Windows and Linux.
 author: Kewbit
 date: August 19, 2024
@@ -31,10 +31,64 @@ payouts:
   - date:
     amount: 50
 ---
-# Haveno Multi-Platform Native App for Android, iOS, Windows, MacOS and Linux
+### Haveno Multi-Platform Native App for Android, iOS, Windows, MacOS and Linux
 
 **Author**: Kewbit  
 **Date**: 19/08/2024
+
+# Proposal termination December 31st, 2024
+
+A contractor presented themselves to the CCS for the sole purpose of creating a Multi-OS Haveno App using a portion of funds from the abandoned Haveno frontend proposal. [1] (of which 378XMR remain)
+
+There has since been a public controversy surrounding this proposal/contractor. [2] [3]    
+
+The CCS itself is devoid of opinion/emotion regarding 'extra curricular' activities. [4]
+
+As per the Community meeting on December 7th [5], the partial payout request was unanimously denied.
+
+During this meeting, Woodser, the lead developer of Haveno suggested [6]:
+> [a] deadline to release the code, in hopes of getting the code for the greater benefit of the project
+
+Whilst the majority voted to close the proposal with immediate effect.
+
+Community trust and sentiment plays a significant role in our Crowdfunding System. For this contractor, it has been **irrevocably and permanently lost**.
+
+On December 10th the contractor was *explicitly informed* [7] to not expect payment outside of milestones 2.
+
+_"Work done as per your proposal is work paid"_: 
+
+* As per the contractors own admission[8] on December 21st via another partial payout request, the work is not done. 
+
+The decision is simple and the contractor is to blame. They:
+* Will not continue working on the proposal until a partial payout is made. (This will not happen again)
+* Demand a decision as soon as possible.    
+
+All deadlines have passed:
+
+* The latest, mentioned by the contractor in their own proposal (*31st December*)
+* The community calling for immediate closure (*December 7th*)
+* One mention of allowing an extra week to complete[9] (*December 14th*).
+
+* Given this, the expert witness review will now focus solely on:
+  1. Validating the legitimacy of the previous Milestone 2 payout (75 XMR)[10].
+  2. Assessing the utility of the existing open source code for future development.
+ 
+If Milestone 2's work meets the proposal requirements and the existing source code is of high quality, despite being incomplete, a new team or contractor can continue the development after a more stringent vetting process if the community wishes to continue this venture.
+
+Should the review expose any shortcomings in the payout review process, these will be addressed moving forward.
+
+[1]: https://ccs.getmonero.org/proposals/haveno-frontend.html
+[2]: https://librejo.monerodevs.org/SyntheticBird/kewbit-drama
+[3]: https://github.com/MAGICGrants/Monero-Fund-Elections/issues/10#issuecomment-2565810794
+[4]: https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/334#note_19962
+[5]: https://github.com/monero-project/meta/issues/1120#issuecomment-2525531999
+[6]: https://libera.monerologs.net/monero-community/20241207#c471605
+[7]: https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/489#note_27830
+[8]: https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/489#note_27825
+[9]: https://libera.monerologs.net/monero-community/20241207#c471632-c471633
+[10]:https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/489#note_26721
+
+---
 
 ## Overview
 
