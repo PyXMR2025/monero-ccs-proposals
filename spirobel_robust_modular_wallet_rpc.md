@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Robust and modular wallet-rpc library
 date: Sep 10, 2024
 author: Spirobel
@@ -11,19 +11,17 @@ milestones:
     status: finished
   - name: First month
     funds: 30 XMR
-    done:
-    status: unfinished
+    done: 23 December 2024
+    status: finished
   - name: Second month + value commitment
     funds: 50 XMR
-    done:
-    status: unfinished
+    done: 19 February 2025
+    status: finished
 payouts:
   - date: 16 October 2024
     amount: 20
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 28 February 2025
+    amount: 80
 ---
 
 # Robust and modular wallet-rpc library
