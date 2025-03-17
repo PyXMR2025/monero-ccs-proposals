@@ -44,6 +44,8 @@ payouts:
     amount: 10.5
 ---
 
+_Note: Overfunding of 5.296349910952 XMR from this proposal has been awarded to [v1docq47 2024](https://ccs.getmonero.org/proposals/v1docq47-monerotopia-2024-voiceovers-and-working-on-xmr.ru.html)_
+
 # Introduction
 
 Hello, my dear followers, colleagues, and friends!

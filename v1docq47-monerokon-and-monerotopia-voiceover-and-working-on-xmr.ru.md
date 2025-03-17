@@ -44,6 +44,8 @@ payouts:
     amount: 7.13
 ---
 
+_Note: Overfunding of 0.050719957895 XMR from this proposal has been awarded to [v1docq47 2024](https://ccs.getmonero.org/proposals/v1docq47-monerotopia-2024-voiceovers-and-working-on-xmr.ru.html)_
+
 # Introduction
 
 Due to [disallow on posting new CCS to translate](https://github.com/monero-project/meta/issues/732) on ccs.getmonero.org, I redid [my previous CCS proposal](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/329) and removed the translate part of the work.
