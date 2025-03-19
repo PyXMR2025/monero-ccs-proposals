@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: MoneroKon 2025 CCS
 author: hbs
 date: February 24, 2024
