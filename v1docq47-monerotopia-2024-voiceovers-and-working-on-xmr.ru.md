@@ -46,6 +46,8 @@ payouts:
 
 _Note: 15XMR has been awarded to v1docq47 after closure of [Netriks translation coordinator proposal](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html)_
 
+_Note: 15.371159810053XMR from v1docq47s' [historical overfunding](https://ccs.getmonero.org/index.php/projects#:~:text=data) has been awarded to this proposal_
+
 # Introduction
 
 Hi, everyone!
