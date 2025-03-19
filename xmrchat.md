@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished    
 payouts:
-  - date:
-    amount:
+  - date: 19 March 2025
+    amount: 70.56
   - date:
     amount:
   - date:
