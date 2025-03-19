@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: acx part-time work on Monfluo (3 months)
 author: acx
 date: February 28, 2025
