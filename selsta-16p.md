@@ -3,18 +3,18 @@ layout: fr
 title: selsta part-time monero development (3 months) (16)
 author: selsta
 date: March 2, 2025
-amount: 93
+amount: 104.1
 milestones:
   - name: March
-    funds: 33% (31 XMR)
+    funds: 33% (34.7 XMR)
     done:
     status: unfinished
   - name: April
-    funds: 33% (31 XMR)
+    funds: 33% (34.7 XMR)
     done:
     status: unfinished
   - name: May
-    funds: 33% (31 XMR)
+    funds: 33% (34.7 XMR)
     done:
     status: unfinished
 payouts:
@@ -49,4 +49,4 @@ If funded I will provide monthly updates in the CCS comment section.
 
 ## Proposal
 
-Work for 30 hours per week over the next 3 months (from March to end of May) at a rate of 50€ / hour. At 210€ / XMR this makes ~93 XMR.
+Work for 30 hours per week over the next 3 months (from March to end of May) at a rate of 50€ / hour. At 188€ / XMR this makes ~104.10 XMR.
