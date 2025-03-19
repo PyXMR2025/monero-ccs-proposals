@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: February
     funds: 3
-    done:
-    status: unfinished
+    done: 3 March 2025
+    status: finished
   - name: March
     funds: 2
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 24 February 2025
     amount: 3
-  - date:
-    amount:
+  - date: 19 March 2025
+    amount: 3
   - date:
     amount:
 ---
