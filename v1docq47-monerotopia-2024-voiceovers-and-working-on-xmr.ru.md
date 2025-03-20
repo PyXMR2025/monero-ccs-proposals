@@ -1,18 +1,18 @@
 ---
-layout: fr
+layout: wip
 title: v1docq47 - monerokon 2024 voiceovers and working on xmr.ru
 author: v1docq47
 date: December 31, 2024
-amount: 45.6
+amount: 42.64
 milestones:
   - name: December
     funds: 16.66% (7.6 XMR)
-    done:
-    status: unfinished
+    done: December 31, 2024
+    status: done
   - name: January
     funds: 16.66% (7.6 XMR)
-    done:
-    status: unfinished
+    done: January 31, 2025
+    status: done
   - name: February
     funds: 16.66% (7.6 XMR)
     done:
@@ -26,7 +26,7 @@ milestones:
     done:
     status: unfinished
   - name: May
-    funds: 16.66% (7.6 XMR)
+    funds: 4.64 XMR
     done:
     status: unfinished
 payouts:
