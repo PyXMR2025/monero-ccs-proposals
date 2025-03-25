@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: SyntheticBird Cuprate Arti integration and development (2 months)
 author: SyntheticBird
 date: March 9, 2025
