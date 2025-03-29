@@ -75,4 +75,4 @@ For the past year and a half we relied on our small community to help fund us, a
 
 Progress will be posted on our repo http://git.anonero.io (onion redirect) and we will begin open testing as soon as we can.
 
-CCS will expire one year from date of first payout and funds can be send to the General Fund.
+~~CCS will expire one year from date of first payout and funds can be send to the General Fund.~~
