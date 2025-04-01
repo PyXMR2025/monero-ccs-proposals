@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "anon: perfect peer to peer protocol from bottom to top"
 author: anon
 date: 24 Jan 2021
@@ -25,6 +25,10 @@ payouts:
   - date:
     amount:
 ---
+
+## Proposal closure / Repurposing of funds (1st Jan, 2025)
+
+All remaining funds (160.08014XMR) will be repurposed or reallocated to a similar proposal (subject to community consensus).
 
 ## What
 
