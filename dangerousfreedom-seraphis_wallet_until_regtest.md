@@ -14,6 +14,14 @@ payouts:
     amount:
 ---
 
+### Deadline update: July 1, 2025
+
+Prior to the deadline, the proposer MUST provide regular updates on their progress as per the CCS rules.
+
+If the provided updates/progress (or lack thereof) is unsatisfactory, all remaining funds **can be** relinquished either before or after the deadline.
+
+The community will then seek another person/team to take over. If this cannot be accomplished within a reasonable timeframe, the funds will be repurposed or reallocated to a similar proposal (subject to community consensus).
+
 ## What and Why ?
 
 Since we have now a basic demonstrator of a wallet using a mock ledger, my next goal is to have it on a real ledger. Many components are well developed for that goal like the enote_scanner from @jberman with @SNeedlewoods modifications and the serialization functions from @jeffro256 to enable write/reading transactions into a block in a blockchain file. So the idea is to put all the components together and finish developing the remaining ones in order to have a functional (local) regtest.

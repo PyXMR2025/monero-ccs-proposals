@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero Kubernetes Operator
 author: Ciro S. Costa (utxobr)
 date: May 3, 2021
@@ -30,6 +30,9 @@ payouts:
     amount:
 ---
 
+## Proposal closure / Repurposing of funds (1st Jan, 2025)
+
+All remaining funds (22.86XMR) will be repurposed or reallocated to a similar proposal (subject to community consensus).
 
 ## Brief Intro
 

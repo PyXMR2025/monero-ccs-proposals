@@ -24,6 +24,14 @@ payouts:
     amount:
 ---
 
+### Deadline update: July 1, 2025
+
+Prior to the deadline, the proposer MUST provide regular updates on their progress as per the CCS rules.
+
+If the provided updates/progress (or lack thereof) is unsatisfactory, all remaining funds **can be** relinquished either before or after the deadline.
+
+The community will then seek another person/team to take over. If this cannot be accomplished within a reasonable timeframe, the funds will be repurposed or reallocated to a similar proposal (subject to community consensus).
+
 ### What?
 
 I am [SerHack](https://serhack.me), the author of [Mastering Monero](https://masteringmonero.com) and security engineer; I am one of the maintainers for [Monero integrations](https://monerointegrations.com) project. The project aims to provide a set of payment gateways and libraries (coded mainly in PHP, at the time of writing) for merchants and developers. As you might find on Github, the payment gateways are not in any third party companies, then no data is sent to any other website beside yours.

@@ -42,6 +42,14 @@ payouts:
     amount:
 ---
 
+### Deadline update: July 1, 2025
+
+Prior to the deadline, the proposer MUST provide regular updates on their progress as per the CCS rules.
+
+If the provided updates/progress (or lack thereof) is unsatisfactory, all remaining funds **can be** relinquished either before or after the deadline.
+
+The community will then seek another person/team to take over. If this cannot be accomplished within a reasonable timeframe, the funds will be repurposed or reallocated to a similar proposal (subject to community consensus).
+
 # What
 The goal is to create open-source software that aids people mining Monero with excess solar power in the most profitable way. It will accommodate for issues such as:
 
