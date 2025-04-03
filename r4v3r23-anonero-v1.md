@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Payment for first test build
     funds: 40 % (79.706 XMR)
-    done:
-    status: unfinished
+    done: 23 March 2025
+    status: finished
   - name: Payment for completion
     funds: 40 % (79.706 XMR)
     done:
@@ -20,6 +20,8 @@ milestones:
 payouts:
   - date: 29 April 2024
     amount: 39.853
+  - date: 3 April 2025
+    amount: 79.706
   - date:
     amount:
 ---
