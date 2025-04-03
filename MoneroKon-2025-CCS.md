@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: MoneroKon 2025 CCS
 author: hbs
 date: February 24, 2024
@@ -7,11 +7,11 @@ amount: 99
 milestones:
   - name: Funding goal reached
     funds: 99
-    done:
-    status: unfinished
+    done: 19 March 2025
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 3 April 2025
+    amount: 99
 ---
 
 # Table of Contents
