@@ -54,8 +54,8 @@ payouts:
     amount: 118.5
   - date: 7 March 2025
     amount: 53.43
-  - date:
-    amount:
+  - date: 8 April 2025
+    amount: 70
   - date:
     amount:
   - date:
