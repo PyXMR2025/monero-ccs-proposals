@@ -7,12 +7,12 @@ amount: 160
 milestones:
   - name: January
     funds: 40 XMR
-    done:
-    status: unfinished
+    done: 18 March 2025
+    status: finished
   - name: Month 1
     funds: 40 XMR
-    done:
-    status: unfinished
+    done: 18 March 2025
+    status: finished
   - name: Month 2
     funds: 40 XMR
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 8 April 2025
+    amount: 80
   - date:
     amount:
   - date:
