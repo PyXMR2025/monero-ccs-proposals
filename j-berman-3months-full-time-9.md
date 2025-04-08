@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: Month 3
     funds: 25% (90 Monero)
-    done:
-    status: unfinished
+    done: 19 March 2025
+    status: finished
   - name: Month 4
     funds: 25% (90 Monero)
     done:
@@ -26,8 +26,8 @@ payouts:
     amount: 90
   - date: 19 March 2025
     amount: 90
-  - date:
-    amount:
+  - date: 8 April 2025
+    amount: 90
   - date:
     amount:
 ---
