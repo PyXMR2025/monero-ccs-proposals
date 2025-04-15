@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Revuo Monero maintenance (2025 Q1)
 author: rottenwheel
 date: December 26, 2024
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: March
     funds: 2
-    done:
-    status: unfinished
+    done: 30 March 2025
+    status: finished
 payouts:
   - date: 24 February 2025
     amount: 3
   - date: 19 March 2025
     amount: 3
-  - date:
-    amount:
+  - date: 14 April 2025
+    amount: 2
 ---
 
 # What
