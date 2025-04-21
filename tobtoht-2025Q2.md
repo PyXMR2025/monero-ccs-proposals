@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "tobtoht full-time feather + core development (3 months)"
 author: tobtoht
 date: April 1, 2025
