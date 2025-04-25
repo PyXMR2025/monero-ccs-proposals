@@ -15,11 +15,11 @@ milestones:
     status: done
   - name: February
     funds: 16.66% (7.6 XMR)
-    done:
-    status: unfinished
+    done: 15 April 2025
+    status: finished
   - name: March
     funds: 16.66% (7.6 XMR)
-    done:
+    done: 15 April 2025
     status: unfinished
   - name: April
     funds: 16.66% (7.6 XMR)
@@ -32,8 +32,8 @@ milestones:
 payouts:
   - date: 23 March 2025
     amount: 15.2
-  - date:
-    amount:
+  - date: 25 April 2025
+    amount: 15.4
   - date:
     amount:
   - date:
