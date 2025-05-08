@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: CCS Coordinator
 author: plowsof
 date: September 14, 2024
@@ -15,14 +15,14 @@ milestones:
     done: 16 February 2025
   - name: Month 3
     funds: 33.0
-    status: unfinished
-    done:
+    status: finished
+    done: 22 April 2025
 payouts:
   - date: 6 December 2024
     amount: 33.0
   - date: 26 February 2025
     amount: 33.0
-  - date:
+  - date: 8 May 2025
     amount: 33.0
 ---
 
