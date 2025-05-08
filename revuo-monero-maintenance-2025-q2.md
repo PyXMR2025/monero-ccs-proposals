@@ -7,8 +7,8 @@ amount: 7
 milestones:
   - name: April
     funds: 2.5
-    done:
-    status: unfinished
+    done: 28 April 2025
+    status: finished
   - name: May
     funds: 2.5
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 8 May 2025
+    amount:  2.5
   - date:
     amount:
   - date:
