@@ -7,23 +7,21 @@ amount: 240.12021
 milestones:
   - name: Feb.
     funds: 33% (80.04007 XMR)
-    done: 10 July 2021
+    done: 8 July 2021
     status: finished
   - name: Mar.
     funds: 33% (80.04007 XMR)
-    done:
-    status: unfinished
+    done: 8 May 2025
+    status: finished
   - name: Apr.
     funds: 33% (80.04007 XMR)
-    done:
-    status: unfinished
+    done: 10 May 2025
+    status: finished
 payouts:
   - date: 11 July 2021
     amount: 80.04007
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 10 May 2025
+    amount: 160.08014
 ---
 
 ## Proposal closure / Repurposing of funds (1st Jan, 2025)
