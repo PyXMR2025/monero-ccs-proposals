@@ -24,9 +24,9 @@ payouts:
     amount: 160.08014
 ---
 
-## Proposal closure / Repurposing of funds (1st Jan, 2025)
+## Proposal completion (28th, April 2025)
 
-All remaining funds (160.08014XMR) will be repurposed or reallocated to a similar proposal (subject to community consensus).
+All remaining funds (160.08014XMR) ~~will be repurposed or reallocated to a similar proposal (subject to community consensus).~~ will be paid out to anon who has requested payout using his original PGP key.  
 
 ## What
 
