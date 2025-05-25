@@ -7,15 +7,15 @@ amount: 52.5
 milestones:
   - name: April
     funds: 50% (26 XMR)
-    done:
-    status: unfinished
+    done: 15 May 2025
+    status: finished
   - name: May and completion of Arti integration
     funds: 50% (26.5 XMR)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 24 May 2025
+    amount: 26
   - date:
     amount:
 ---
