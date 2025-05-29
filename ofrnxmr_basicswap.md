@@ -47,8 +47,8 @@ milestones:
     status: finished
   - name: M3-O (ofrnxmr, til completion)
     funds: 100 XMR
-    done:
-    status: unfinished
+    done: 27 April 2025
+    status: finished
   - name: M3-F - Frontend GUI v3.0.0 - v5.0.0+ (prepaid, ~6 months)
     funds: 320 XMR
     done: 19 January 2025
@@ -77,8 +77,8 @@ payouts:
     amount: 115
   - date: 6 February 2025
     amount: 730
-  - date:
-    amount:
+  - date: 29 May 2025
+    amount: 100
   - date:
     amount:
   - date:
