@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: xmruw - development of cross platform wallet
 author: mrcyjanek
 date: February 29, 2024
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 25.56
-    done:
-    status: unfinished
+    done: 18 May 2025
+    status: finished
 payouts:
   - date: 17 July 2024
     amount: 25.56
   - date: 4 September 2024
     amount: 25.56
-  - date:
-    amount:
+  - date: 27 June 2025
+    amount: 25.56
 ---
 
 Hello! I'm mrcyjanek and I'm currently working on the Unnamed Monero Wallet (short: xmruw) that aims to be as portable as possible and as close to `wallet2_api.h` as it is reasonably possible.
