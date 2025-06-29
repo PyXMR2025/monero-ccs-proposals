@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: v1docq47 - monerokon 2024 voiceovers and working on xmr.ru
 author: v1docq47
 date: December 31, 2024
@@ -27,8 +27,8 @@ milestones:
     status: finished
   - name: May
     funds: 4.64 XMR
-    done:
-    status: unfinished
+    done: 18 June 2025
+    status: finished
 payouts:
   - date: 23 March 2025
     amount: 15.2
@@ -36,12 +36,8 @@ payouts:
     amount: 15.4
   - date: 27 May 2025
     amount: 7.4
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 29 June 2025
+    amount: 4.64
 ---
 
 _Note: 15XMR has been awarded to v1docq47 after closure of [Netriks translation coordinator proposal](https://ccs.getmonero.org/proposals/netrik-translation-coordination-2.html)_
