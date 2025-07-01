@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: hinto-janai full-time work (3 months)
 author: hinto-janai
 date: February 7, 2025
@@ -11,19 +11,17 @@ milestones:
     status: finished
   - name: Month 2
     funds: 62 XMR
-    done:
-    status: unfinished
+    done: 21 May 2025
+    status: finished
   - name: Month 3
     funds: 62 XMR
-    done:
-    status: unfinished
+    done: 9 June 2025
+    status: finished
 payouts:
   - date: 29 April 2025
     amount: 62
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 1 July 2025
+    amount: 124
 ---
 
 ## What
