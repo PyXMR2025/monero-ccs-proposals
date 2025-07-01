@@ -23,8 +23,8 @@ milestones:
     done: 9 May 2025
   - name: 5th month
     funds: 121.5
-    status: unfinished
-    done:
+    status: finished
+    done: 16 June 2025
   - name: 6th month
     funds: 121.5
     status: unfinished
@@ -38,8 +38,8 @@ payouts:
     amount: 121.5
   - date: 28 May 2025
     amount: 121.5
-  - date:
-    amount:
+  - date: 1 July 2025
+    amount: 121.5
   - date:
     amount:
 ---
