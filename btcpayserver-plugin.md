@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: BTCPay Server Monero Plugin
 author: Deverickapollo & Napoly
 date: January 6, 2025
