@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero Browser Wallet
 date: February 26, 2025
 author: Spirobel
