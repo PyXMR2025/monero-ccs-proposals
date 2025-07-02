@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: Milestone 3 - creator specific minimum tip amount, links to more creator content + new tab UI for that and other settings, audio tip received notification, How To section in FAQ, old xmrchats expiration, admin page, site monitoring.
     funds: 17
-    done:
-    status: unfinished
+    done: 2 June 2025
+    status: finished
   - name: Milestone 4 - on screen special effects and notifications based on tip tier, moderator / cohost page, feature currently live streams, fee system
     funds: 27
     done:
@@ -24,8 +24,8 @@ milestones:
 payouts:
   - date: 19 March 2025
     amount: 70.56
-  - date:
-    amount:
+  - date: 1 July 2025
+    amount: 17
   - date:
     amount:
   - date:
