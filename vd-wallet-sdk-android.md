@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: Continuous Integration & Testing
     funds: 51 XMR
-    done:
-    status: unfinished
+    done: 31 May 2025
+    status: finished
   - name: Maintenance (3 months)
     funds: 20 XMR
     done:
@@ -30,8 +30,8 @@ payouts:
     amount: 180
   - date: 14 August 2024
     amount: 24
-  - date:
-    amount:
+  - date: 2 July 2025
+    amount: 51
   - date:
     amount:
   - date:
