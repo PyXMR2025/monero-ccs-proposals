@@ -7,7 +7,7 @@ amount: 335
 milestones:
   - name: prepayment for first month
     funds: 20 XMR
-    done:
+    done: 17 June 2025
     status: finished
   - name: Monero Payment Links + multi wallet syncing
     funds: 90 XMR
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 12 July 2025
+    amount: 20
   - date:
     amount:
   - date:
