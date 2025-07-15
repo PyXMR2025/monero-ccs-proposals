@@ -7,8 +7,8 @@ amount: 72.60
 milestones:
   - name: Month 1
     funds: 24.2
-    status: unfinished
-    done:
+    status: finished
+    done: 2 July 2025
   - name: Month 2
     funds: 24.2
     status: unfinished
@@ -18,8 +18,8 @@ milestones:
     status: unfinished
     done:
 payouts:
-  - date:
-    amount:
+  - date: 14 July 2025
+    amount: 24.2
   - date:
     amount:
   - date:
