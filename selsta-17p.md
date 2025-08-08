@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: July
     funds: 33% (22 XMR)
-    done:
-    status: unfinished
+    done: 5 August 2025
+    status: finished
   - name: August
     funds: 33% (22 XMR)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 11 July 2025
     amount: 22
-  - date:
-    amount:
+  - date: 7 August 2025
+    amount: 22
   - date:
     amount:
 ---
