@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: Month 3 (480 hours)
     funds: 44.79
-    done:
-    status: unfinished
+    done: 22 July 2025
+    status: finished
 payouts:
   - date: 25 April 2025
     amount: 44.79
