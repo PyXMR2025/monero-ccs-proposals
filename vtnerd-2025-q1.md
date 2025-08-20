@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: vtnerd full-time 2025 q1/q2
 author: Lee Clagett (vtnerd)
 date: February 21, 2025
@@ -20,10 +20,8 @@ milestones:
 payouts:
   - date: 25 April 2025
     amount: 44.79
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 20 August 2025
+    amount: 89.58
 ---
 
 3-Months full-time software development on monero "core" components in 2025 q1/q2.
