@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Rucknium Research II
 author: Rucknium
 date: July 25, 2025
