@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Monero Network Simulation Tool
 author: Gingeropolous
 date: July 9, 2025
