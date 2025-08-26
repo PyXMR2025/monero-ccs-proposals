@@ -61,6 +61,10 @@ We propose incorporating these bounty funds into the broader plugin development 
 
 As part of this transition, we also plan to eventually migrate Dockerfiles and supporting infrastructure currently hosted under the BTCPay organization to the btcpay-monero GitHub org. This reduces reliance on BTCPay’s infrastructure and aligns with their recommendation that each altcoin community manage its own deployment lifecycle and testing.
 
+**Support Channels:**
+- BTCPay-Monero Community Channel  https://matrix.to/#/#btcpay-monero:matrix.org
+- Official BTCPayServer Altcoins Support Channel https://chat.btcpayserver.org/btcpayserver/channels/support---altcoins
+
 
 Contributors:
 
