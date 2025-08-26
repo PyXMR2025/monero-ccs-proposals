@@ -7,8 +7,8 @@ amount: 273
 milestones:
   - name: Requirements analysis and core infrastructure 
     funds: 41
-    done:
-    status: unfinished
+    done: 16 June 2025
+    status: finished
   - name: Improve functionality and UI/UX for managing daemon and wallet-rpc
     funds: 68
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 26 August 2025
+    amount: 41
   - date:
     amount:
 ---
