@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: vtnerd full-time 2025 q3
 author: Lee Clagett (vtnerd)
 date: June 30, 2025
