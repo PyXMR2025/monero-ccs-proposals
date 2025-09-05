@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Rucknium Statistical Research
 author: Rucknium
 date: March 28, 2024
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 33% (68 XMR)
-    done:
-    status: unfinished
+    done: 24 July 2025
+    status: finished
 payouts:
   - date: 16 October 2024
     amount: 68
   - date: 26 February 2025
     amount: 68
-  - date:
-    amount:
+  - date: 5 September 2025
+    amount: 68
 ---
 
 ## What
