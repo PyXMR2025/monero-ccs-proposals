@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monerotopia 2024 Marketing and Publicity
 author: geonic
 date: November 6, 2024
@@ -7,10 +7,10 @@ amount: 36.68
 milestones:
   - name: Payment to Estrategia Blue PR
     funds: 36.68
-    status: unfinished
-    done:
+    status: finished
+    done: 22 August 2025
 payouts:
-  - date:
+  - date: 5 September 2025
     amount: 36.68
 ---
 # Monerotopia 2024 Marketing & Publicity
