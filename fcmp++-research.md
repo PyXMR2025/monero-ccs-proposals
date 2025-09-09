@@ -60,6 +60,8 @@ payouts:
     amount: 341.44
   - date: 1 July 2025
     amount: 175
+  - date: 8 September 2025
+    amount: 137.29
 ---
 
 This CCS is to prove, review, and audit Full-Chain Membership Proofs (a trustless solution based on Generalized Bulletproofs) into Monero under RingCT, replacing the existing CLSAG. This is distinct from prior intents to integrate FCMPs into Monero with Seraphis, and was prior discussed in a MRL meeting with well reception. That same meeting organized the [funding of security proofs for Generalized Bulletproofs](https://ccs.getmonero.org/proposals/cypherstack-gbp-security-proofs.html), a critical component for FCMPs (under both this proposal and Seraphis). The review and audits here would also lay the ground work for FCMPs with Seraphis as well.
