@@ -2,7 +2,7 @@
 layout: fr
 title: selsta part-time monero development (3 months) (18)
 author: selsta
-date: Aug 31, 2025
+date: August 31, 2025
 amount: 87
 milestones:
   - name: September
