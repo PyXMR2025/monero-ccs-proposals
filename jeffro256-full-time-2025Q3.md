@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: jeffro256 full-time development 2025Q3
 author: jeffro256
 date: August 11, 2025
