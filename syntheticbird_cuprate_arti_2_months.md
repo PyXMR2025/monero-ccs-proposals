@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: SyntheticBird Cuprate Arti integration and development (2 months)
 author: SyntheticBird
 date: March 9, 2025
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: May and completion of Arti integration
     funds: 50% (26.5 XMR)
-    done:
-    status: unfinished
+    done: 7 September 2025
+    status: finished
 payouts:
   - date: 24 May 2025
     amount: 26
-  - date:
-    amount:
+  - date: 15 September 2025
+    amount: 26.5
 ---
 
 # Who
