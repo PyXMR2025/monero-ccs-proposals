@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: August
     funds: 2
-    done:
-    status: unfinished
+    done: 8 September 2025
+    status: finished
   - name: September
     funds: 2
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 2 September 2025
     amount: 2
-  - date:
-    amount:
+  - date: 17 September 2025
+    amount: 2
   - date:
     amount:
 ---
