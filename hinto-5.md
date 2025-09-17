@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: hinto-janai full-time work (3 months)
 author: hinto-janai
 date: June 14, 2025
