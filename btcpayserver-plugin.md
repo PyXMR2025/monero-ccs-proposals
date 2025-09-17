@@ -28,6 +28,7 @@ payouts:
     amount:
 ---
 
+_Note: 27.16 XMR has been donated to this proposal from bounties [1](https://bounties.monero.social/posts/36/2-100m-video-tutorial-how-to-set-up-btcpayserver-for-monero-only-on-vps-home-server) / [2](https://bounties.monero.social/posts/88/15-008m-btcpay-server-additional-optimizations) / [3](https://bounties.monero.social/posts/77/10-052m-make-btcpay-server-configuration-accessible)_
 
 ## Overview
 
