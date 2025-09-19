@@ -38,7 +38,7 @@ The community will then seek another person/team to take over. If this cannot be
 
 ## The idea
 
-The Monero Garden would initially be a website available at [monero.garden](https://anhdr.es), that worked as a clean and friendly space to start someone's Monero journey. Is a resource I wished many times existed when I told someone about Monero. The naming has two reasons: it acts as a Monero kindergarten of sorts, the starting point of your education, where you learn without any dread; but also as a real garden, with paths you can graciously take and effortlessly stroll at your own pace while discovering new things on the way.
+The Monero Garden would initially be a website available at [monero.garden](https://monero.garden), that worked as a clean and friendly space to start someone's Monero journey. Is a resource I wished many times existed when I told someone about Monero. The naming has two reasons: it acts as a Monero kindergarten of sorts, the starting point of your education, where you learn without any dread; but also as a real garden, with paths you can graciously take and effortlessly stroll at your own pace while discovering new things on the way.
 
 Its language, both visual and writing, should be approachable for a 11 year old and above. Trying my best to keep it clean of technical wording, yet making it engaging for an adult as well. It's a difficult balance but I think it's worth pursuit it.
 
