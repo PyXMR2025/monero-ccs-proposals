@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Audit monero-serai and monero-wallet
 author: kayabaNerve
 date: October 11, 2024
@@ -7,8 +7,8 @@ amount: 1050 XMR
 milestones:
   - name: Audit of monero-[serai, wallet], including the FROST-inspired multisig protocol
     funds: 1050 XMR
-    done:
-    status: unfinished
+    done: 18 September 2025
+    status: finished
 payouts:
   - date: 3 December 2024
     amount: 1050
