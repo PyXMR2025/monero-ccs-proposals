@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem"
 author: "binarybaron and einliterflasche"
 date: July 9, 2024
@@ -27,8 +27,8 @@ milestones:
     done: 16 June 2025
   - name: 6th month
     funds: 121.5
-    status: unfinished
-    done:
+    status: finished
+    done: 24 August 2025
 payouts:
   - date: 19 October 2024
     amount: 121.5
@@ -40,8 +40,8 @@ payouts:
     amount: 121.5
   - date: 1 July 2025
     amount: 121.5
-  - date:
-    amount:
+  - date: 24 September 2025
+    amount: 121.5
 ---
 
 ![https://i.ibb.co/3NvpYp2/upload-398781d371d354427bb455356731258c.png](https://i.ibb.co/3NvpYp2/upload-398781d371d354427bb455356731258c.png)
