@@ -7,17 +7,15 @@ amount: 9.9
 milestones:
   - name: Translation of the subtitles of “Monero Means Money”
     funds: 4.9
-    done:
-    status: unfinished
+    done: 17 April 2023
+    status: finished
   - name: Continued translation of the subtitles of “Sound Money, Safe Mode”
     funds: 5
-    done:
-    status: unfinished
+    done: 17 April 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 24 September 2025
+    amount: 9.9
 ---
 
 
