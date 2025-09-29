@@ -7,14 +7,14 @@ amount: 105.77 XMR
 milestones:
   - name: Month 1 (160 hours)
     funds: 35.25 XMR
-    done:
-    status: unfinished
+    done: 28 September 2025
+    status: finished
   - name: Month 2 (320 hours)
     funds: 35.25 XMR
     done:
     status: unfinished
   - name: Month 3 (480 hours)
-    funds: 36.27
+    funds: 35.27
     done:
     status: unfinished
 payouts:
