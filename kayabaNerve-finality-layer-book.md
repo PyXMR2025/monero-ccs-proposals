@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Development of a Book on a Finality Layer
 author: kayabaNerve
 date: August 14, 2025
