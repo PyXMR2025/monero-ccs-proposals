@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: EVM Atomic Swaps Development
 author: hbs
 date: July 12, 2025
