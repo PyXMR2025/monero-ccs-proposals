@@ -7,19 +7,19 @@ amount: 123
 milestones:
   - name: Month 1
     funds: 33.33% (41.0)
-    done:
-    status: unfinished
+    done: 12 September 2025
+    status: finished
   - name: Month 2
     funds: 33.33% (41.0)
-    done:
-    status: unfinished
+    done: 9 October 2025
+    status: finished
   - name: Month 3
     funds: 33.33% (41.0)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 22 October 2025
+    amount: 82
   - date:
     amount:
   - date:
