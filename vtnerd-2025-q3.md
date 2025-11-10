@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 7 November 2025
     amount: 35.25
-  - date:
-    amount:
+  - date: 9 November 2025
+    amount: 35.25
   - date:
     amount:
 ---
