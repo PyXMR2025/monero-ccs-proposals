@@ -22,8 +22,8 @@ payouts:
     amount: 3
   - date: 10 September 2024
     amount: 3
-  - date: 2
-    amount: 7 October 2024
+  - date: 7 October 2024
+    amount: 2
 ---
 
 # What
