@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Month 2
     funds: 25
-    done:
-    status: unfinished
+    done: 9 November 2025
+    status: finished
   - name: Month 3
     funds: 25
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 26 August 2024
     amount: 25
-  - date:
-    amount:
+  - date: 11 November 2025
+    amount: 25
   - date:
     amount:
 ---
