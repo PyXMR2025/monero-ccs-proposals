@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: ANONERO version 1.0
 author: r4v3r23
 date: April 12, 2024
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Payment for completion
     funds: 40 % (79.706 XMR)
-    done:
-    status: unfinished
+    done: 6 October 2025
+    status: finished
 payouts:
   - date: 29 April 2024
     amount: 39.853
   - date: 3 April 2025
     amount: 79.706
-  - date:
-    amount:
+  - date: 13 November 2025
+    amount: 79.706
 ---
 
 
