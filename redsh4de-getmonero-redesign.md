@@ -3,14 +3,14 @@ layout: fr
 title: Getmonero.org Redesign Implementation
 author: redsh4de
 date: October 29, 2025
-amount: 48
+amount: 40
 milestones:
   - name: Technical foundation, UI components, and blog system
-    funds: 60% (28.8 XMR)
+    funds: 60% (24 XMR)
     done:
     status: unfinished
   - name: Accessibility, CI/CD, and final updates & optimizations
-    funds: 40% (19.2 XMR)
+    funds: 40% (16 XMR)
     done:
     status: unfinished
 payouts:
@@ -66,7 +66,7 @@ Migrating from Jekyll to Astro also improves the developer experience: component
 
 ## Milestones and projected timeline
 
-### Milestone 1: Technical foundation, UI components, and blog system (60% / 28.8 XMR)
+### Milestone 1: Technical foundation, UI components, and blog system (60% / 24 XMR)
 * Develop the complete technical skeleton with all routes and UI components.
 * Provide updates on progress within the #monero-site Matrix channel and implement community feedback.
 * Implement the blog system with full migration of historical posts.
@@ -74,7 +74,7 @@ Migrating from Jekyll to Astro also improves the developer experience: component
 * CI/CD setup for building and testing.
 * Estimated completion: ~8 weeks from funding
 
-### Milestone 2: Accessibility, CI/CD, and final updates & optimizations (40% / 19.2 XMR)
+### Milestone 2: Accessibility, CI/CD, and final updates & optimizations (40% / 16 XMR)
 * Accessibility improvements
 * Full CI/CD automation including audits and validations
 * Tor Browser "Safest" compatibility and final optimizations.
@@ -87,8 +87,8 @@ I am willing to dedicate at least 36 hours per week to this project, at a $35 pe
 - Monday to Friday: 4 hours
 - Saturday & Sunday: 8 hours each day
 
-Using the XMR/USD exchange rate of $340 per XMR, the cost of the project is estimated as follows:
-Working 13 weeks @ 36 hours -> 36 hours * 13 weeks * $35 = $16,380 - around 48 XMR.
+Using the XMR/USD exchange rate of $409 per XMR, the cost of the project is estimated as follows:
+Working 13 weeks @ 36 hours -> 36 hours * 13 weeks * $35 = $16,380 - around 40 XMR.
 
 No separate designer budget is required for this scope; I will leverage the existing design assets and handle minor design tweaks within the development time.
 
