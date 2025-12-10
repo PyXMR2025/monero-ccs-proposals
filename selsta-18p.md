@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: selsta part-time monero development (3 months) (18)
 author: selsta
 date: August 31, 2025
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: November
     funds: 33% (29 XMR)
-    done:
-    status: unfinished
+    done: 1 December 2025
+    status: finished
 payouts:
   - date: 8 October 2025
     amount: 29
   - date: 7 November 2025
     amount: 29
-  - date:
-    amount:
+  - date: 9 December 2025
+    amount: 29
 ---
 
 ## What
