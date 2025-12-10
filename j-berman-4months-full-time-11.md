@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: j-berman full-time development (4 months)
 author: j-berman
 date: August 11, 2025
@@ -15,21 +15,17 @@ milestones:
     status: finished
   - name: Month 3
     funds: 25% (86 Monero)
-    done:
-    status: unfinished
+    done: 6 November 2025
+    status: finished
   - name: Month 4
     funds: 25% (86 Monero)
-    done:
-    status: unfinished
+    done: 21 November 2025
+    status: finished
 payouts:
   - date: 23 October 2025
     amount: 172
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 9 December 2025
+    amount: 172
 ---
 
 ## What
