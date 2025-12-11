@@ -7,8 +7,8 @@ amount: 163.5
 milestones:
   - name: Month 1
     funds: 54.5 XMR
-    done:
-    status: unfinished
+    done: 5 November 2025
+    status: finished
   - name: Month 2
     funds: 54.5 XMR
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 10 December 2025
+    amount: 54.5
   - date:
     amount:
   - date:
