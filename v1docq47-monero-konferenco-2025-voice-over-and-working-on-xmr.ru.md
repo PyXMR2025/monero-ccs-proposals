@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: v1docq47 - monero konferenco 2025 voice-over and working on xmr.ru
 author: v1docq47
 date: August 20, 2025
