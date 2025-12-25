@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "Monero Python Maintenance"
 author: everoddandeven
 date: July 18, 2025
