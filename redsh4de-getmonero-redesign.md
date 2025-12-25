@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: Getmonero.org Redesign Implementation
 author: redsh4de
 date: October 29, 2025
