@@ -7,15 +7,15 @@ amount: 135 XMR
 milestones:
   - name: Initial view only dApp
     funds: 81 XMR
-    done:
-    status: unfinished
+    done: 30 November 2025
+    status: finished
   - name: Swap creation and management
     funds: 54 XMR
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 20 January 2026
+    amount: 81
   - date:
     amount:
 ---
