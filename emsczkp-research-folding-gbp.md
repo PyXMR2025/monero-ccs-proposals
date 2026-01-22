@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: emsczkp research Bulletproofs*
 author: emsczkp
 date: November 25, 2025
