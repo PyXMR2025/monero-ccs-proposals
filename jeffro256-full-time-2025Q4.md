@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Month 2
     funds: 33.33% (32.0)
-    done:
-    status: unfinished
+    done: 15 January 2026
+    status: finished
   - name: Month 3
     funds: 33.33% (32.0)
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 18 December 2025
     amount: 32
-  - date:
-    amount:
+  - date: 26 January 2026
+    amount: 32
   - date:
     amount:
 ---
