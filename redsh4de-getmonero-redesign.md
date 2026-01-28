@@ -7,15 +7,15 @@ amount: 40
 milestones:
   - name: Technical foundation, UI components, and blog system
     funds: 60% (24 XMR)
-    done:
-    status: unfinished
+    done: 27 December 2025
+    status: finished
   - name: Accessibility, CI/CD, and final updates & optimizations
     funds: 40% (16 XMR)
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 27 January 2026
+    amount: 24
   - date:
     amount:
 ---
