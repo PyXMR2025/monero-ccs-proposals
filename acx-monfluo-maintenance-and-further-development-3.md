@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: acx part-time work on Monfluo 2025Q4
 author: acx
 date: September 28, 2025
@@ -7,23 +7,19 @@ amount: 10.5
 milestones:
   - name: Month 1
     funds: 3.5 XMR
-    done:
-    status: unfinished
+    done: 25 December 2025
+    status: finished
   - name: Month 2
     funds: 3.5 XMR
-    done:
-    status: unfinished
+    done: 25 December 2025
+    status: finished
   - name: Month 3
     funds: 3.5 XMR
-    done:
-    status: unfinished
+    done: 25 December 2025
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 27 January 2026
+    amount: 10.5
 ---
 
 ## Who
