@@ -7,12 +7,12 @@ amount: 15.6
 milestones:
   - name: September
     funds: 16.66% (2.6 XMR)
-    done:
-    status: unfinished
+    done: 1 February 2026
+    status: finished
   - name: October
     funds: 16.66% (2.6 XMR)
-    done:
-    status: unfinished
+    done: 1 February 2026
+    status: finished
   - name: November
     funds: 16.66% (2.6 XMR)
     done:
@@ -30,8 +30,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 5 February 2026
+    amount: 5.2
   - date:
     amount:
   - date:
