@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: EVM Atomic Swaps Development
 author: hbs
 date: July 12, 2025
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: Swap creation and management
     funds: 54 XMR
-    done:
-    status: unfinished
+    done: 31 January 2026
+    status: finished
 payouts:
   - date: 20 January 2026
     amount: 81
-  - date:
-    amount:
+  - date: 6 February 2026
+    amount: 54
 ---
 
 # Summary
