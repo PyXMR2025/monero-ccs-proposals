@@ -16,7 +16,7 @@ milestones:
 payouts:
   - date: 27 January 2026
     amount: 24
-  - date: 7 January 2026
+  - date: 7 February 2026
     amount: 16
 ---
 
