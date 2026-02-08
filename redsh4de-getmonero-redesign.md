@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Getmonero.org Redesign Implementation
 author: redsh4de
 date: October 29, 2025
@@ -11,13 +11,13 @@ milestones:
     status: finished
   - name: Accessibility, CI/CD, and final updates & optimizations
     funds: 40% (16 XMR)
-    done:
-    status: unfinished
+    done: 3 February 2026
+    status: finished
 payouts:
   - date: 27 January 2026
     amount: 24
-  - date:
-    amount:
+  - date: 7 January 2026
+    amount: 16
 ---
 
 ## What the proposal is about
