@@ -15,8 +15,8 @@ milestones:
     status: finished
   - name: November
     funds: 16.66% (2.6 XMR)
-    done:
-    status: unfinished
+    done: 27 February 2026
+    status: finished
   - name: December
     funds: 16.66% (2.6 XMR)
     done:
@@ -32,8 +32,8 @@ milestones:
 payouts:
   - date: 5 February 2026
     amount: 5.2
-  - date:
-    amount:
+  - date: 11 March 2026
+    amount: 2.6
   - date:
     amount:
   - date:
