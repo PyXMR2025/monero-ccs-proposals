@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title:  Boog900 full time work on Cuprate (3 months)
 author: Boog900
 date: September 10, 2025
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 40 XMR
-    done:
-    status: unfinished
+    done: 4 March 2026
+    status: finished
 payouts:
   - date: 27 January 2026
     amount: 39
   - date: 4 February 2026
     amount: 39
-  - date:
-    amount:
+  - date: 15 March 2026
+    amount: 40
 ---
 
 # Who 
