@@ -30,4 +30,4 @@ jobs:
       - name: Push to current repository
         run: |
           cd tmp-ccs-proposals
-          git push --mirror https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push --mirror https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git
