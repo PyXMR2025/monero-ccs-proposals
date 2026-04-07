@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: vtnerd full-time 2025 q4
 author: Lee Clagett (vtnerd)
 date: November 29, 2025
@@ -8,7 +8,7 @@ milestones:
   - name: Month 1 (160 hours)
     funds: 25.24 XMR
     done: 25 January 2026
-    status: unfinished
+    status: finished
   - name: Month 2 (320 hours)
     funds: 25.24 XMR
     done: 25 February 2026
@@ -18,12 +18,8 @@ milestones:
     done: 02 April 2026
     status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 7 April 2026
+    amount: 75.73
 ---
 
 3-Months full-time software development on monero components in 2025 q4
