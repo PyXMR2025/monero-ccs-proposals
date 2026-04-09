@@ -7,8 +7,8 @@ amount: 150
 milestones:
   - name: Milestone 1, adapt Bulletproof to Protostar (design Bulletproofs*)
     funds: 33% (50 XMR)
-    done:
-    status: unfinished
+    done: 25 March 2026
+    status: finished
   - name: Milestone 2, security proofs of Bulletproofs*
     funds: 33% (50 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 9 April 2026
+    amount: 50
   - date:
     amount:
   - date:
