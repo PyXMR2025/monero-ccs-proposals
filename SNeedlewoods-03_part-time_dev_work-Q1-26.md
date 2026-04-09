@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: SNeedlewoods-03_part-time dev work-Q1-26
 author: SNeedlewooods
 date: December 14, 2025
@@ -7,11 +7,11 @@ amount: 10
 milestones:
   - name: Q1 - Jan-Mar
     funds: 10
-    done:
-    status: unfinished
+    done: 30 March 2026
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 9 April 2026
+    amount: 10
 ---
 
 ## What?
