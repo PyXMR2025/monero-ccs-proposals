@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: dangerousfreedom - seraphis wallet work until regtest
 author: DangerousFreedom
 date: March 30, 2024
@@ -10,9 +10,14 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: March 29, 2026
+    amount: 26.25
 ---
+
+### Proposal closure/repurposed 29th March 2026
+
+- 26.25 XMR has been repurposed to fund [Integrate FCMP++ into monero-inflation-checker
+](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/645)
 
 ### Deadline update: July 1, 2025
 
