@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "I2P SAMv3 support"
 author: jpk68
 date: March 7, 2026
@@ -25,6 +25,8 @@ payouts:
   - date:
     amount:
 ---
+
+_Note: this proposal has been funded entirely using funds from a [declined bounty](https://bounties.monero.social/posts/32/140-219m-i2p-baked-into-the-monero-gui)_
 
 ## What
 
