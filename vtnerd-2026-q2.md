@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: vtnerd Full-time 2026 Q2
 author: Lee Clagett (vtnerd)
 date: March 12, 2026
