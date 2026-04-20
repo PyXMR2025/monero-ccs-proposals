@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: "I2P SAMv3 support"
 author: jpk68
 date: March 7, 2026
