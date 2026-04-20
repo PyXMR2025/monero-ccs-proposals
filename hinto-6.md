@@ -1,34 +1,22 @@
 ---
 layout: fr
-title: hinto-janai full-time work (3 months)
+title: hinto-janai full-time work (1 month)
 author: hinto-janai
 date: February 12, 2026
-amount: 137.13
+amount: 45.71
 milestones:
   - name: Month 1
-    funds: 45.71 XMR
-    done:
-    status: unfinished
-  - name: Month 2
-    funds: 45.71 XMR
-    done:
-    status: unfinished
-  - name: Month 3
     funds: 45.71 XMR
     done:
     status: unfinished
 payouts:
   - date:
     amount:
-  - date:
-    amount:
-  - date:
-    amount:
 ---
 
 ## What
 
-Work full-time for 480 hours on:
+Work full-time for 160 hours on:
 
 - Cuprate
   - Bootstrappable builds [1](https://github.com/Cuprate/cuprate/issues/470) [2](https://github.com/monero-project/monero/pull/8929)
@@ -59,6 +47,6 @@ Previous proposals:
 
 ## Funding
 
-137.13 XMR.
+45.71 XMR.
 
-$65 + 0.1 XMR per hour for 480 hours at $350/XMR.
+$65 + 0.1 XMR per hour for 160 hours at $350/XMR.
