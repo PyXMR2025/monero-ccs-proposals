@@ -26,6 +26,8 @@ payouts:
     amount:
 ---
 
+_Note: this proposal has been funded entirely using funds from a [declined bounty](https://bounties.monero.social/posts/32/140-219m-i2p-baked-into-the-monero-gui)_
+
 ## What
 
 Monero's core software currently has very limited support for the I2P network, which is through the use of SOCKS proxies. This has a number of [disadvantages](https://i2p.net/en/docs/api/socks/) in terms of both security and ease of use.
