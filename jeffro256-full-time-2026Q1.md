@@ -7,8 +7,8 @@ amount: 111
 milestones:
   - name: Month 1
     funds: 33.33% (37.0)
-    done:
-    status: unfinished
+    done: 9 April 2026
+    status: finished
   - name: Month 2
     funds: 33.33% (37.0)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 7 May 2026
+    amount: 37
   - date:
     amount:
   - date:
