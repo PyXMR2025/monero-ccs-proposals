@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title:  Boog900 Cuprate RPC for wallet support (Rust Monero node).
 author: Boog900
 date: March 12, 2026
