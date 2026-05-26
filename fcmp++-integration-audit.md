@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: FCMP++ Integration Audit
 author: j-berman
 date: April 6, 2026
