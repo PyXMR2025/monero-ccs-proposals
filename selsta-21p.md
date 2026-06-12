@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: selsta full-time monero development (3 months) (21)
 author: selsta
 date: May 30, 2026
