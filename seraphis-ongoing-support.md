@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: "koe: Seraphis Ongoing Support"
 author: koe
 date: 31 March 2023
@@ -7,9 +7,11 @@ amount: 163.7
 milestones:
   - name: PoC
     funds: 100% (163.7 XMR)
-    done: 
-    status: unfinished
+    done: 11 June 2026
+    status: finished
 payouts:
+  - date: 19 June 2026
+    amount: 163.7
 ---
 
 ## Intro
