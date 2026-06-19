@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: Improve functionality and UI/UX for managing daemon and wallet-rpc
     funds: 68
-    done:
-    status: unfinished
+    done: 13 April 2026
+    status: finished
   - name: Creating MVP for Monero Plugin to support multiwallet
     funds: 96
     done:
@@ -24,8 +24,8 @@ milestones:
 payouts:
   - date: 26 August 2025
     amount: 41
-  - date:
-    amount:
+  - date: 19 June 2026
+    amount: 68
 ---
 
 _Note: 27.16 XMR has been donated to this proposal from bounties [1](https://bounties.monero.social/posts/36/2-100m-video-tutorial-how-to-set-up-btcpayserver-for-monero-only-on-vps-home-server) / [2](https://bounties.monero.social/posts/88/15-008m-btcpay-server-additional-optimizations) / [3](https://bounties.monero.social/posts/77/10-052m-make-btcpay-server-configuration-accessible)_
