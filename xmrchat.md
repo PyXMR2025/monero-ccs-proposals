@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: p
 title: XMRChat - a service for content creators to receive messages and tips in Monero.
 author: FiatDemise
 date: December 8, 2024
@@ -19,17 +19,15 @@ milestones:
     status: finished
   - name: Milestone 4 - on screen special effects and notifications based on tip tier, moderator / cohost page, feature currently live streams, fee system
     funds: 27
-    done:
-    status: unfinished    
+    done: 5 June 2026
+    status: finished    
 payouts:
   - date: 19 March 2025
     amount: 70.56
   - date: 1 July 2025
     amount: 17
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 19 June 2026
+    amount: 27
 ---
 
 _Note: 70.56XMR has been awarded to XMRChat from [TipXMR](https://ccs.getmonero.org/proposals/tipxmr.live.html)_
