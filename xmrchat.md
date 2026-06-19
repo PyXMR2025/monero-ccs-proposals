@@ -1,5 +1,5 @@
 ---
-layout: p
+layout: cp
 title: XMRChat - a service for content creators to receive messages and tips in Monero.
 author: FiatDemise
 date: December 8, 2024
