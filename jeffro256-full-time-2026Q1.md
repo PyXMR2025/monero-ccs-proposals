@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: jeffro256 full-time development 2026Q1
 author: jeffro256
 date: February 26, 2026
@@ -15,15 +15,15 @@ milestones:
     status: finished
   - name: Month 3
     funds: 33.33% (37.0)
-    done:
-    status: unfinished
+    done: 14 June 2026
+    status: finished
 payouts:
   - date: 7 May 2026
     amount: 37
   - date: 5 June 2026
     amount: 37
-  - date:
-    amount:
+  - date: 3 July 2026
+    amount: 37
 ---
 
 
