@@ -7,8 +7,8 @@ amount: 116
 milestones:
   - name: June
     funds: 33% (39 XMR)
-    done:
-    status: unfinished
+    done: 1 July 2026
+    status: finished
   - name: July
     funds: 33% (39 XMR)
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 3 July 2026
+    amount: 39
   - date:
     amount:
   - date:
