@@ -7,8 +7,8 @@ amount:  302 Monero
 milestones:
   - name: Month 1
     funds: 25% (75.5 Monero)
-    done:
-    status: unfinished
+    done: 6 June 2026
+    status: finished
   - name: Month 2
     funds: 25% (75.5 Monero)
     done:
@@ -22,8 +22,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 3 July 2026
+    amount: 75.5
   - date:
     amount:
   - date:
