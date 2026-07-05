@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: v1docq47 - monero konferenco 2025 voice-over and working on xmr.ru
 author: v1docq47
 date: August 20, 2025
@@ -23,25 +23,23 @@ milestones:
     status: finished
   - name: January
     funds: 16.66% (2.6 XMR)
-    done:
-    status: unfinished
+    done: 3 May 2026
+    status: finished
   - name: February
     funds: 16.66% (2.6 XMR)
-    done:
-    status: unfinished
+    done: 21 June 2026
+    status: finished
 payouts:
   - date: 5 February 2026
     amount: 5.2
   - date: 11 March 2026
     amount: 2.6
   - date: 19 April 2026
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+    amount: 2.6
+  - date: 10 May 2026
+    amount: 2.6
+  - date: 5 July 2026
+    amount: 2.6
 ---
 
 # Introduction
