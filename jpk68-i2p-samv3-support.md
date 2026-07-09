@@ -7,8 +7,8 @@ amount: 50
 milestones:
   - name: Research and prototype, core SAMv3 implementation
     funds: 25
-    done:
-    status: unfinished
+    done: 28 June 2026
+    status: finished
   - name: GUI integration and docs
     funds: 10
     done:
@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 9 July 2026
+    amount: 25
   - date:
     amount:
   - date:
