@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 title: SNeedlewoods-05_part-time-dev-Q3-26
 author: SNeedlewoods
 date: June 30, 2026
