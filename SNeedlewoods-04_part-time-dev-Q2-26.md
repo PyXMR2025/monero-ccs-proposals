@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: SNeedlewoods-04_part-time-dev-Q2-26
 author: SNeedlewoods
 date: March 30, 2026
@@ -7,11 +7,11 @@ amount: 12.9
 milestones:
   - name: Q2 - Apr-Jun
     funds: 12.9
-    done:
-    status: unfinished
+    done: 29 June 2026
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 15 July 2026
+    amount: 12.9
 ---
 
 ## What?
