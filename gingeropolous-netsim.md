@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Monero Network Simulation Tool
 author: Gingeropolous
 date: July 9, 2025
@@ -7,11 +7,11 @@ amount: 30
 milestones:
   - name: Working simulation
     funds: 30
-    done:
-    status: unfinished
+    done: 11 July 2026
+    status: finished
 payouts:
-  - date:
-    amount:
+  - date: 20 July 2026
+    amount: 30
 ---
 
 CCS Proposal: Monero Network Simulation Tool
