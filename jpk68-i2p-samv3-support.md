@@ -11,8 +11,8 @@ milestones:
     status: finished
   - name: GUI integration and docs
     funds: 10
-    done:
-    status: unfinished
+    done: 8 July 2026
+    status: finished
   - name: Beta testing and review
     funds: 15
     done:
@@ -20,8 +20,8 @@ milestones:
 payouts:
   - date: 9 July 2026
     amount: 25
-  - date:
-    amount:
+  - date: 22 July 2026
+    amount: 10
   - date:
     amount:
 ---
