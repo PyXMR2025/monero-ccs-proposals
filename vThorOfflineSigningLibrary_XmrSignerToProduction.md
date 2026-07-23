@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 title: Offline Signing Library for XmrSigner to Production
 date: August 31, 2024
 author: Thor a.k.a. vThor a.k.a DiosDelRayo
@@ -19,8 +19,8 @@ milestones:
     status: finished
   - name: Third month
     funds: 65 XMR
-    done:
-    status: unfinished
+    done: 30 June 2026
+    status: finished
 payouts:
   - date: 15 November 2024
     amount: 20
@@ -28,10 +28,8 @@ payouts:
     amount: 46
   - date: 10 February 2025
     amount: 65
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 23 July 2026
+    amount: 65
 ---
 
 # Offline Signing Library for XmrSigner Production
