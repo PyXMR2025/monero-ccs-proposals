@@ -18,8 +18,8 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
+  - date: 23 July 2026
+    amount: 59.94
   - date:
     amount:
   - date:
